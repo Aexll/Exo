@@ -1,0 +1,12 @@
+!23160!You crawl all the way up to their positions until, amidst the greenery, you manage to spot three
+humanoid figures. With these uniforms, they must be federation soldiers\!
+
+Your sudden appearance makes them hold fire for a moment, giving you their attention.
+
+#0# Explain that the energy sources are the Rahk'at's ashes
+#1# Join the soldiers
+
+||
+
+[0<25000]
+[1<23170]

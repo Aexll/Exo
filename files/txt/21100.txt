@@ -1,0 +1,13 @@
+!21100!The grappling's tines pierce through the wood and after some effort you make your way to the top.
+Once you find your balance you open your eyes wide.
+
+Before you lie an entire village made out of huts centered around a giant tree in which there is also
+a hut... on this desolated planet, there is sentient life\! 
+
+#0# Jump on the thatched roofs to see without being seen
+#1# Climb down from the rempart and enter the village
+
+||
+[p<10]
+[0<21110]
+[1<21070]

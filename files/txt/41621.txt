@@ -1,0 +1,10 @@
+!41621!The Razor hit you with its right arm, with enough strength to violently nail you to the ground.
+As it bend over you, you take full notice of its expression, on of a beast, giving it all to survive.
+
+#0# Burst the Alien's eye
+#1# Grab the axe
+
+||
+
+[0<41630]
+[1<41640]

@@ -1,0 +1,16 @@
+!23200!You all proceed to a quiet walk towards your pod, while they stay watchful of the foliage.
+You gather the ashes, with everything in place you switch the radio on. A little antenna deploys itself,
+a few seconds later, through the radio you hear a voice asking to identify yourself.
+
+The sergeant steps in.
+
+"Here's Sergeant Agria, Caporal Cut and First class Rook with a little civilian fool.
+Ya better get your asses down here, I'm not about to stay here for dinner."
+
+After almost half an hour you hear a ship landing near your position. The crew help you getting in, you're safe.
+
+#0# Continue
+
+||
+[p<2]
+[0<23210]

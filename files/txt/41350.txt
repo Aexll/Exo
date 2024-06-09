@@ -1,0 +1,11 @@
+!41350!You're brutally pushed on the ground. A Razor is standing on you.
+Crushed under the beast's weight, you're unable to even move.
+As the situation wasn't perilous enough, you back is well-exposed for the creature to tear it apart.
+As you struggle to breathe under the alien's weight, you suddenly hear a now reassuring to your hears sound: a shot.
+The Razor gets off you, and rushes to the noise's source. Rook\!
+
+#0# Continue
+
+||
+
+[0<41351]

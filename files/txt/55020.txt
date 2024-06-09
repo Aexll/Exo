@@ -1,0 +1,13 @@
+!55020!You quickly lie down and try to catch your breath along the wall.
+You sit there motionless, stifling your headache to the best of your abilites.
+
+After a few minutes of torpor, you are awaken by a alarming sound.
+To your horror, more than half an hour has passed, and your entire body is now
+extremely cold. Groggily, you rise up and move toward the door.
+You need to get out of the temple as soon as you can or might not make it. 
+
+#0# Rise up
+
+||
+
+[0<55021]

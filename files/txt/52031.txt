@@ -1,0 +1,10 @@
+!52031!Was it your imagination, or did that shadow on the wall just move?
+
+#0# continue
+
+||
+
+[i12+1]
+Add Evil Eye to the inventory
+
+[0<52050]

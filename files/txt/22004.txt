@@ -1,0 +1,7 @@
+!22004!Deleted all $yFragment/$y from the inventory.
+
+#0# Continue
+
+||
+[i3<0]
+[0<22080]

@@ -1,0 +1,13 @@
+!30330!You throw these on the floor and then hide in the darkness. After a while, it's the time to end up
+this exploration and find where the signal is coming from. After following an umpteenth tunnel,
+you spot a hole which is pretty small and that has some light coming from it.
+
+This wasn't a cave, it's a tunnel between the two oasis created by the local
+wildlife! From here, the signal is steadily growing stronger as you progress.
+
+#0# Continue your journey.
+
+||
+[p<13]
+
+[0<50010]

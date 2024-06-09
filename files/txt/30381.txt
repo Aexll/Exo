@@ -1,0 +1,8 @@
+!30381!The sigils dance in your eyes as you walk into the forested area...
+
+#0# Continue.
+
+||
+
+[0<50060]
+[i12+1]

@@ -1,0 +1,8 @@
+!41012!The sergeant takes a moment to think.
+"Those fuckers seems to be numerous. We won't get anywhere rushin' in. We need a plan."
+
+#0# Continue
+
+||
+
+[0<41020]

@@ -1,0 +1,13 @@
+!23050!As soon as the temple turns silent you come out of your hideout. Looking left and right no one stands
+between you and the ashes.
+
+You grasp the $bpot/$b and start running towards the exit, taking the same path you used with the Rahk'at.
+But something seems strange, the only sound you hear are your own footsteps.
+
+You quickly notice that there is no one left here.
+
+#0# Continue
+
+||
+
+[0<23051]

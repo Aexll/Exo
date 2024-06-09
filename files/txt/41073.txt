@@ -1,0 +1,10 @@
+!41073!Out of options, you throw your meanest punch at the Razor's lower jaw.
+It seems that pain is an universal thing, as the creature lets out a screech and staggers a bit.
+You take advantage of this brief instant to evade the beast's grasp.
+You quickly get back on your feet, you ready your rifle, and put the alien to sleep.
+
+#0# Continue
+
+||
+
+[0<41074]

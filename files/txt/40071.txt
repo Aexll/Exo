@@ -1,0 +1,19 @@
+!40071!The woman, Sergeant Agria, explained that they were followed by something since they crashed here.
+With your support, they might be able to take it down, whatever it is.
+As you progress through the vegetation, you start to feel the same as when you had the sensation to be observed.
+Could this presence and the standed soldiers' observer be one and the same?
+Suddenly, Cut, the bearded soldier, freezes in place.
+He take a look at his sergeant, and slowly points out to the end of a nearby tree.
+
+#0# Wait for Agria's orders
+#1# Shoot at the tree
+
+||
+
+[0<40072]
+[1<40080]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

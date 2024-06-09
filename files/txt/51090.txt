@@ -1,0 +1,11 @@
+!51090!Over the glyph representing the planet, you find the two moons of the planet crowning it. 
+Multiple sculpted lines coming from the moons seem to imply some form of influence 
+that the moons would have over the planet. Perhaps this was how the natives interpreted 
+why these celestial bodies appeared in the sky? You spend a while trying to understand
+why the lines surround the moons, ultimatily deciding that they stand in for rays of light.
+
+#0# continue
+
+||
+
+[0<51110]

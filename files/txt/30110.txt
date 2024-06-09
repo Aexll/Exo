@@ -1,0 +1,12 @@
+!30110!Several of the balls join their mate in front of you. They seem a little wary
+of your presence at first, but quickly end up warming to your presence. After a short while, they start to head back
+where they came from. A few balls linger around
+and make small mewling noises, almost as if they're trying to get you to come with them.
+
+#0# Discretely track them from afar.
+#1# Follow the strange animals.
+
+||
+
+[0<30150]
+[1<30160]

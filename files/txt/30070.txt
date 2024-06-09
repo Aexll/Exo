@@ -1,0 +1,13 @@
+!30070!You throw your grappling hook and climb as fast as possible on top of the nearest tree.
+The beast does not seem to be able to climb and doesn't seem to care about you either,
+so you decide to continue your rest.
+When you wake up the beast is long gone, so you take the opportunity to go back
+on your way before other monsters come to bother you.
+
+#0# Have a walk in the jungle.
+#1# Resume your journey.
+
+||
+
+[0<30130]
+[1<30140]

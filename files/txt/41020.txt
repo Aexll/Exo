@@ -1,0 +1,13 @@
+!41020!Agria takes a moment to elaborate a plan.
+"Cut, how many frag grenades you have left?"
+"Bout a few."
+"STOP FOOLIN' AROUND BLUE\!"
+Cut whists for a few seconds, looking genuinely scared, then starts checking all his pouches.
+"Four, Sergeant."
+At the same time Rook, who took up on himself to count his as well, answers the same question.
+
+#0# Continue
+
+||
+
+[0<41021]

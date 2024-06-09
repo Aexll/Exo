@@ -1,0 +1,11 @@
+!30170!The scattered bodies you leave behind lead you to the
+entrance of their living quarters, a large cave-like lair, before you enter
+perhaps you should collect resources from the dead creatures.
+
+#0# You take them then enter.
+#1# You want to avoid getting too close to them, you enter.
+
+||
+
+[0<30171]
+[1<30190]

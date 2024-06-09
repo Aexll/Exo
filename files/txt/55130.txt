@@ -1,0 +1,12 @@
+!55130!Propelled by a burst of strength, you rush to the top of the temple as fast as you can.
+You cannot believe your luck! A second, slightly weaker signal has just appeared!
+You don't know what caused it to appear like that, but it may very well be your only ticket home.
+
+Not taking any chance for it to dissapear, you run as fast as you can through the tunnels.
+
+#0# Continue
+
+||
+
+[p<1]
+[0<55170]

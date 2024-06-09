@@ -1,0 +1,11 @@
+!40200!You notice the presence of some kind of tall grass.
+Without hesitation you jump on the ground, hoping to be well-hidden from your pursuers.
+You hear footsteps coming in your direction. You grit your teeth.
+"R.A.S., that scum is probably hiding in the thick."
+As you hear the soldiers withdraw, you breath a sigh of relief.
+
+#0# Continue
+
+||
+
+[0<40210]

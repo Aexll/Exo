@@ -1,0 +1,9 @@
+!41351!Your relief is quick to withdraw however, as the now hurt and even angrier alien is charging at Rook.
+Instinctively, the soldier puts his weapon in front of him, hoping to stop it.
+The creature hits him at full speed, breaking the weapon in two, and  deeply sinking its claws in him.
+
+#0# Continue
+
+||
+
+[0<41360]

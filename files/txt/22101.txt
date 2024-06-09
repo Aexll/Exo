@@ -1,0 +1,13 @@
+!22101!Your journey leads you inside a massive stone temple hidden behind the dense vegetation.
+
+The procession goes through multiple corridors covered in symbols and paitings.
+After several turns you reach a large room with a pot filled with blue powder in its center, on a pedestal.
+
+One member of the crowd, probably a priest judging by its appearance, step forward inviting the young male
+without blue trails to steps forwards.
+
+#0# Continue
+
+||
+[p<1]
+[0<22110]

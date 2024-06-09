@@ -1,0 +1,8 @@
+!20110!Armed with your tools, you tuck into the trunk. After carefully cutting all around the inscribed part, the bark
+comes out in your hands. You put it away in your backpack for safekeeping, then keep moving on.
+
+#0# Continue
+
+||
+
+[0<20111]

@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\Axel\Desktop\C\GameBookeur\GameBookeur\Main.c(89,8): warning C4013: 'memset' undefined; assuming extern returning int
+  GameBookeur.vcxproj -> C:\Users\Axel\Desktop\C\GameBookeur\Debug\GameBookeur.exe

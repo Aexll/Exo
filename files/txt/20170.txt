@@ -1,0 +1,12 @@
+!20170!Your shot echoes through the trees. As the sound of the detonation settles down,
+you can hear birds flying far away from your location.
+
+The creature has fallen under your fire.
+
+#0# Approach the corpse and examine it
+#1# Put your rifle on your shoulder and keep moving towards the signal
+
+||
+
+[0<20180]
+[1<20030]

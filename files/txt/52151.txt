@@ -1,0 +1,11 @@
+!52151!On your way to the end of the room, you throw the remains of your rifle on the ground.
+Deleted your $yRifle/$y from the inventory.
+
+#0# Continue
+
+||
+
+[i0<0]
+Remove rifle from the inventory
+
+[0<52152]

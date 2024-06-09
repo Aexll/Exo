@@ -1,0 +1,10 @@
+!20230!You spend some time carefully cutting the stone until a piece of it gives out and falls in your hands.
+After putting it in your backpack you take a look around, there is no sign of the runaway creature.
+
+#0# Search around to try and find other monoliths
+#1# Walk away
+
+||
+
+[0<20231]
+[1<20232]

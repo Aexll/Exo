@@ -1,0 +1,13 @@
+!11030!As much as the module wants to fight back, it cannot. After all, it doesn't have any arms, but you do\! 
+Taking advantage of these two wonders of evolution, you show the radio the shear power of natural
+selection.
+
+But all this inferior being has to say for itself is silence.
+
+#0# Hit the radio again !
+#1# Scan the area
+
+||
+
+[0<11040]
+[1<10040]

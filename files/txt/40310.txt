@@ -1,0 +1,14 @@
+!40310!It's almost pitch black. You have wandered across the jungle, hoping to find the signal.
+You're now in the thick of the night, without shelter.
+As you progress through the vegetation, you notice some noise coming from your right.
+Slowly, you approaches the noise's source. Three figures are slowly approaching a nearby tree.
+After a moment, you realize: they're human\!
+Judging by their outfits, they might be soldiers, probably from the federation.
+
+#0# Continue
+
+||
+
+[0<40311]
+
+[p<19]

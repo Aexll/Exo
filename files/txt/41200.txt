@@ -1,0 +1,10 @@
+!41200!You hold your breath, hoping for the best.
+You can only see Cut partially, but you recall he's in the same state of terror as you.
+Long seconds passes. And what must arrive, arrives. The tiny Razor screams.
+An almost deafening scream, but...kind of frightened.
+
+#0# Continue
+
+||
+
+[0<41201]

@@ -1,0 +1,12 @@
+!41076!You take a look at Agria.  She seems to have disposed of the Big One, though with great difficulty.
+She quickly apporaches you and Cut, followed closely by Rook. She now has a deep wound on the cheek.
+"Right, is everyone alright?"
+Cut coughs blood. Agria lets out a grin.
+"I'll take that as a yes. C'mon boys, we're leaving."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41090]

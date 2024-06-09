@@ -1,0 +1,12 @@
+!40170!As the soldiers keep shooting the beast, you decide to grab an nearby rock.
+Screaming at the top of your lungs, you throw it with all your strength.
+The creature, which wasn't paying attention to you, seems distracted for a second.
+One second too much. Full of holes, the beast heavily falls on the ground.
+As the silence falls, Cut approaches to cheer you up.
+"See, you can be pretty useful when you want to..."
+
+#0# Continue
+
+||
+
+[0<40140]

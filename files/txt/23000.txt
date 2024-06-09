@@ -1,0 +1,27 @@
+!23000!The ceremony seems to come to an end, as is the vigilance of the guards that appears to have softened.
+As everyone is slowly leaving the temple you can't help but stare at the $bpot/$b.
+Your salvation is right here, almost within reach, but you know that there is little chance they'll let you take it.
+
+When looking around the room you notice a brittle that piece of wood seems to block the access to a corridor just
+large enough for you. On the other hand, you also see a small opening in the ceiling that you could hide into.
+
+#0# Follow the crowd to the village
+#1# Ask them for the pot
+#2# Open the sealed corridor to hide
+#3# Hides in the ceilling 
+
+||
+
+[0<23090]
+[1<23060]
+[2<23040]
+[3<23010]
+
+[v2<0]
+?#i2>0{
+[v2<2]
+}
+[v3<0]
+?#i1>0{
+[v3<2]
+}

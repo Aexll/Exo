@@ -1,0 +1,29 @@
+!50020!You keep ascending at a steady pace, as you spend a few hours getting
+closer and closer to the signal detected by your radar.
+As you wave your hand in the air for the umpteenth time to dismiss your suit's
+fatigue warning, you notice massive blocks of stone through the foliage.
+
+#0# Advance toward the stones
+#1# Climb a nearby tree to get a view of your surroundings
+#2# Use your toolkit to gather some food
+
+||
+
+[v1<0]
+?#i1>0{
+[v1<2]
+}
+
+Choice 1 requires the grappling hook
+
+[v2<0]
+?#i2>0{
+[v2<2]
+}
+
+Choice 2 requires the toolkit
+
+
+[0<50050]
+[1<50030]
+[2<50040]

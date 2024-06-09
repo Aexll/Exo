@@ -1,0 +1,15 @@
+!40210.txt!It's almost pitch black. You have waited until the night to be sure that the soldiers wouldn't cross your path.
+That precedently clever plan now feels quite stupid, as you grope in the night, in the middle of the jungle.
+After long minutes of frightening walks, you start to hear noises. Footseps, the kind that does not want to be heard.
+Slowly, you crawl in the noise direction.
+You recognize the soldiers, focused on a tree. Suddenly, a tall, frightening creature jumps from the tree top.
+It exceeds the average human height, despite being slightly crooked on himself. Its long arms holds two sharp claws.
+What really strikes you is it face, seemingly enraged and savage.
+
+#0# Continue
+
+||
+
+[0<40211]
+
+[p<19]

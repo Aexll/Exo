@@ -1,0 +1,35 @@
+!52090!Backing away slightly from the bones, you turn around as you hear a small grumbling noise
+on your left.  As you do, you feel your heart sink into your chest.
+
+A massive creature stands at the entrance of the room, scraping the top of the room with three
+sets of two horns. It is very tall, easily above five meters, and its body is covered from
+top to bottom in thick, black scales. The scales slightly reflect your suit's frontal lights,
+creating thousands of small reflections that dance in the shadows.
+
+Your panic only increases as you notice that the creature is slowly heading towards you while
+it makes a low grumbling sound. No matter what you decide to do, you will likely only get one attempt.
+Failing here means certain death.
+
+#0# Stand and fight
+#1# Fight the beast using your Rifle
+#2# Appease the beast using food
+#3# RUN
+
+||
+
+[v1<0]
+?#i0>0{
+[v1<2]
+}
+[v2<0]
+?#i13>0{
+[v2<2]
+}
+
+Choice 1 requires the rifle
+Choice 2 requires the orange fruits
+
+[0<52100]
+[1<52110]
+[2<52120]
+[3<52130]

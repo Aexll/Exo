@@ -1,0 +1,15 @@
+!41072!In an instant you are thrown on the ground, the wounded Razor crushing you under its weight.
+You can hardy breath, but what really scare you are the sharp claws getting closer to you face.
+
+#0# Punch the alien
+#1# Stab the Alien with the Hook
+
+||
+
+[0<41073]
+[1<41080]
+
+[v1<0]
+?#i1=1{
+[v1<2]
+}

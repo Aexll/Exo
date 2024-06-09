@@ -1,0 +1,7 @@
+!22005!Deleted $yInscripted bark/$y from the inventory.
+
+#0# Continue
+
+||
+[i6<0]
+[0<22080]

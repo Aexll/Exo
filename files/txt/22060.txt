@@ -1,0 +1,7 @@
+!22060!You hand over the amulet. The chief examines it during a few seconds, then makes gesture in your direction. 
+
+#0# Continue
+
+||
+
+[0<22090]

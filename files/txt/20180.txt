@@ -1,0 +1,10 @@
+!20180!You come up to the body while still keeping your sight on it in case it decides to get back up.
+Your prey is one meter long, with long arms and brown scales overlapping each other.
+
+#0# Skin the creature and collect its meat
+#1# Continue towards the signal
+
+||
+
+[0<20181]
+[1<20030]

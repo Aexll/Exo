@@ -1,0 +1,10 @@
+!41261!Rook tries to reach to Agria.
+"Ma'am, I know Cut would..."
+"Not. A Word. We go."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41092]

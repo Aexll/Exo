@@ -1,0 +1,11 @@
+!21070!At first you think about blending in but you quickly realize that's not really an option. 
+Your presence is rapidly catching the attention of a dozen pairs of eyes.
+Multiple 2 meter figures covered in brown scales and sometimes streaked with blue lines look in your direction.
+
+#0# Salute them
+#1# Try to flee as quickly as possible
+
+||
+
+[0<21090]
+[1<21080]

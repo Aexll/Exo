@@ -1,0 +1,10 @@
+!53100!After testing your foothold, you quicky make your way to the other side of the bridge.
+
+You make a sigh of relief and crack a smile. Your careful planning avoided you
+a lot of trouble, no doubt \!
+
+#0# Continue
+
+||
+
+[0<55010]

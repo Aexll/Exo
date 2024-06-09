@@ -1,0 +1,18 @@
+!30200!Outside of the ship, you notice that a full Toolkit is just laying on the ground.
+You grab it if you don't already have one. As you enter the crashed spaceship,
+you discover that there is no one in it, and it seems to have been left alone recently.
+There is not much dust inside and most of the equipment is still here. You look for information
+and useful things in the cupboards and find a book with information on this planet.
+This is the ship's logbook\!
+
+#0# Read the logbook.
+#1# Continue your travel to the source.
+
+||
+
+[0<30201]
+[1<30202]
+
+?#i2>0{
+[0<30250]
+[1<3035]}

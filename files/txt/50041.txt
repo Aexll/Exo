@@ -1,0 +1,10 @@
+!50041!Added $yOrange Fruits/$y to your inventory.
+
+#0# Continue
+
+||
+
+Add Orange Fruits to the inventory
+
+[0<50050]
+[i13<1]

@@ -1,0 +1,12 @@
+!30220!After lighting the red flare, you can see that there are sort of indentation to walk through the cave. 
+Your radar has now weirdly changed and seems to indicate this direction, so you go deeper following
+the new signal. After some time there is a bifurcation; the first path has weird markings
+but the second has the stronger signal.
+
+#0# The radar knows the good way.
+#1# You follow the marks and trust the monsters.
+
+||
+
+[0<30260]
+[1<30270]

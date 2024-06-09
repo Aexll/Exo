@@ -1,0 +1,20 @@
+!41320!Behind the hut is the shipwreck Rook mentionned earlier. A rather old model, probably made for individuals.
+"Alright, I'll cover you. See what you can get in there."
+You cautiously slip into the wreck. Lots of parts have been roughly snatched, probably by the Razors.
+As you progress in the thin cabin, you wonder what happened to the ship's owner.
+Did he even survive the crash ? Were the Razors already there when it happened.
+Finally you reach the command post. It seems to be relatively untouched compared to the other parts.
+After a quick exam of the command board, you spot the radio device. Now to cut it from the rest...
+
+#0# Search for a tool
+#1# Use the toolkit
+
+||
+
+[0<41330]
+[1<41340]
+
+[v1<0]
+?#i2=1{
+[v1<2]
+}

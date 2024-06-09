@@ -1,0 +1,11 @@
+!30370!You find yourself in the place where the creatures are shedding, in a pile.
+All dirty, you continue towards the source hoping that it is soon the end. And after one or two
+minutes of walking you clearly see light comming from the end of the tunnel. You understand that the radar
+wasn't broken or anything and now the signal is pretty close to you.
+
+#0# Finally! The signal is close.
+
+||
+[p<13]
+
+[0<50010]

@@ -1,0 +1,11 @@
+!21230!You put your hands high in the air, trying to look as harmless as possible.
+They come closer, checking you from top to bottom. After a while they start to produce various sounds,
+ringing as a language. 
+
+Pointing the tip of their spears towards the entrance, they're leading you in.
+
+#0# Continue
+
+||
+
+[0<21240]

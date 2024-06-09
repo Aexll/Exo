@@ -1,0 +1,11 @@
+!30290!You head to the right, only to get tripped by something on the floor.
+You stumble and fall through a hole. You are in what seems to be a trap, it's quite small
+so you can easily get out. However, you quickly hear something that isn't a monster approaching.
+
+Something tells you that you shouldn't stick around, so you run away while you still can.
+
+#0# Continue
+
+||
+
+[0<30380]

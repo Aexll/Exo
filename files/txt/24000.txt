@@ -1,0 +1,25 @@
+!24000!You finally arrive in sight your escape pod.
+
+Taking a moment to catch your breath you chuckle, you finally dit it.
+The ashes are in the palm of your hand, but for a moment you consider the possible cost
+of your escape.
+
+Do you really want to activate the radio module?
+
+#0# Yes
+#1# No
+
+||
+[p<2]
+[0<24030]
+[1<24010]
+
+[v0<0]
+?#i9>0{
+[v0<2]
+}
+
+[v1<0]
+?#i9>0{
+[v1<2]
+}

@@ -1,0 +1,25 @@
+!20130!You take a walk around the lake, hoping to find the origin of the hole. After some final steps there it is,
+a bunch of tree stumps. There is no trace of axes nor handsaws but undoubtedly those were cut cleanly.
+
+Further away you notice others stumps as if these trees were taken down to clear a path. Next to you, in the branches
+jumble of one of the nearby trees, you spot a curious tiny object that reflects the sunlight.
+
+#0# Follow the trail of stumps
+#1# Grab it with the grappling's tines
+#2# Dislodge it by shooting at it
+
+||
+Choix 1 besoin i1, choix 2 besoin i0
+[0<20150]
+[1<20140]
+[2<20140]
+
+[v1<0]
+?#i1>0{
+[v1<2]
+}
+
+[v2<0]
+?#i0>0{
+[v2<2]
+}

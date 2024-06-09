@@ -1,0 +1,18 @@
+!55060!Dozens of alien lifeforms surround you, which would make escape impossible, 
+even if you could move. However, they don't seem hostile. The ones that are carrying
+you seem to have taken great care not to hurt you, and the others are simply walking,
+carrying torches and spears.
+
+They end up laying you on the ground, in the middle of some sort of hut. You barely
+feel the ground under you. After a short while, a native looms over your face,
+laying his hand on your forehead. You hear him make sounds, but you cannot understand him.
+Instead, you simply look at him in the eyes, maintaining eye contact as he stops talking.
+You see no hostility in him, only admiration, as you fall deeper into slumber.
+
+#0# Lose consciousness
+
+||
+
+[p<10]
+
+[0<55090]

@@ -1,0 +1,9 @@
+!21040!Using every bit of cover you can muster you progress across the narrow alleys.
+Slowly but surely you approach your objective helped by straw baskets and piles of thatch,
+until you eventually reach the treehouse.
+
+#0# Continue
+
+||
+
+[0<21120]

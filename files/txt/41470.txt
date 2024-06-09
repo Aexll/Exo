@@ -1,0 +1,13 @@
+!41470!You notice the alien's leg's shape. It's not shaped like a human leg, more like...a bird.
+Out of option, you throw a mean kick to the beast's articulation.
+The Razor let out a scream, destabilized. It also drops its axe due to its previous wound.
+This is your chance. You run up to the axe and grab the weapon.
+The creature tries to stop you, but is hindered by its wound.
+With all your strength, you crush the axe against the alien's skull. Silence. Blood spills out of its head.
+The now inanimate corpse crumbles under its own weight, lifeless.
+
+#0# Continue
+
+||
+
+[0<41490]

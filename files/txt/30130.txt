@@ -1,0 +1,9 @@
+!30130!You arrive in front of what seems to be the lair of the creatures.
+You don't know what to expect, but the radar strangely indicates that it is the right place,
+even if this location is different from the original signal that you followed.
+
+#0# You figure you can't stop now.
+
+||
+
+[0<30190]

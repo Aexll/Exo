@@ -1,0 +1,12 @@
+!21020!It takes you a few moments but in the end you managed to crack the door open and sneak your way into the enclosure.
+You rush to find cover behind a structure made out of thatch and wood... is that a hut?
+
+From where you're crouched you can hear footsteps all around you.
+
+#0# Come out of your hideout
+#1# Make your way into the village behind the huts
+
+||
+[p<10]
+[0<21070]
+[1<21030]

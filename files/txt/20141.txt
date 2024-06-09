@@ -1,0 +1,7 @@
+!20141!Added $yAmulet/$y to your inventory.
+
+#0# Continue
+
+||
+[i5<1]
+[0<21010]

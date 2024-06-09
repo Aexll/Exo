@@ -1,0 +1,23 @@
+!50071!Your trusty radar, which carried you so far, cannot not help you right now
+as the signal is now coming straight down from your position.
+
+You turn on the frontal light on your suit, and carefully examine the various
+doorways that surround the entrance. All of them have been marked
+in various ways by whoever made this place, but none of that can help you. Or can they\?
+
+#0# Enter the doorway surrounded by the most intricated carvings
+#1# Enter the doorway crowned with a complex cube shape
+#2# Use your toolkit to look for a secret passage
+
+||
+
+[v2<0]
+?#i2>0{
+[v2<2]
+}
+
+Choice 2 requires the toolkit
+
+[0<52010]
+[1<51010]
+[2<53010]

@@ -1,0 +1,10 @@
+!40093! She takes a moment to think of her words.
+"Look, I,ve got no clue where to go, and as for now this rock's our sole clue. I say we're followin' it\!"
+Rook seems convinced.
+"Ma'am, yes ma'am\!"
+
+#0# Continue
+
+||
+
+[0<40094]

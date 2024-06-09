@@ -1,0 +1,9 @@
+!41080!In situations like this, everything can be a proper weapon. You grab your grappling hook and stab the alien with it.
+The creature let out a scream, but you keep pushing the head of the hook in the beast, belly.
+Long seconds passes, and the creature finally stops screaming, and crumble on you, lifeless.
+
+#0# Continue
+
+||
+
+[0<41081]

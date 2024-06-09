@@ -1,0 +1,12 @@
+!50070!As you pass below the gargantuan stone arch, you are taken aback
+by your surroundings. Everything is eerily quiet, the silence only being
+broken by your boots stomping on the dusty ground.
+
+From here the temple seems to go in every direction, and you feel
+a slight headache at the idea of losing your way in the darkness.
+
+#0# Continue
+
+||
+
+[0<50071]

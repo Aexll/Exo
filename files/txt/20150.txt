@@ -1,0 +1,9 @@
+!20150!You keep moving forward, on your way you find a long and messy pile logs.
+
+Your instinct tells you that you are walking in the right direction.
+
+#0# Continue
+
+||
+
+[0<21010]

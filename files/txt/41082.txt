@@ -1,0 +1,10 @@
+!41082!The Razor suddenly charges at you, and hit you like a train. But suddenly Rook plunges on the beast.
+You seize this opportunity, and grab the Razor's blade.
+Before the alien can even react, you smash the weapon in the middle of its chest.
+The creature lets out a bloodcurling scream. For a moment, everything seems silent. The Razor heavily falls.
+
+#0# Continue
+
+||
+
+[0<41083]

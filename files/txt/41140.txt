@@ -1,0 +1,14 @@
+!41140!As the lifeless body burns up on the ground, the two other Razors have a slight moment of devolution.
+Long enough for them to be blasted by your comrades.The silence slowly falls again, with only fire left to break it.
+Agria takes a moment to breath and, visibly relieved, she adresses herself to the troops.
+"Good job y'all. We survived."
+Cut lets a moan go.
+"Hardly..."
+"You'll complain later. We got what we wanted. Let's move outta here."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41090]

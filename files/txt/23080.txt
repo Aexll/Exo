@@ -1,0 +1,8 @@
+!23080!You resign yourself. If the pot is that important to their ceremony, you won't be able to obtain it without a fight,
+at least not in front of them.
+
+#0# Continue
+
+|| 
+
+[0<23100]

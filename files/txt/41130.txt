@@ -1,0 +1,11 @@
+!41130!You take your grapping hook and aim for the device. Hoping to not make it explode, you press the trigger.
+Fortunately it doesn't, and you get your hands on it. You wait, for the perfect opportunity to show up.
+Agria notices you and, in a second gestures Rook to take cover.
+The Big one. Here just in front of you. With all your strength left, you throw the device on the creature.
+A flash. Then a noise. The alien is took in a glorious explosion, without even letting a scream out.
+
+#0# Continue
+
+||
+
+[0<41140]

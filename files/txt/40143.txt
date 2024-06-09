@@ -1,0 +1,11 @@
+!40143!"Ma'am, yes ma'am\!"
+As they pack their things, Agria yells at you:
+"What'ya waitin' exactly straggler? Gonna sit here all night?"
+She marks a pause.
+"C'mon, if ya don't do anything stupid you may even leave this shithole alive\!"
+
+#0# Continue
+
+||
+
+[0<40144]

@@ -1,0 +1,14 @@
+!24030!You switch the device and after a few endless seconds the antenna deploys itself.
+You stand there, crossing your fingers so hard you can barely feel them. Then through the radio you hear a voice.
+One of the ships still in the atmosphere received the signal and has now your coordinates. 
+
+You heave a sign of relief before getting overwhelmed with joy. After half an hour you hear the ship landing
+near your position and rush towards it. The crew helps you getting on the shuttle, bringing you a warm drink.
+
+You are safe\!
+
+#0# Continue
+
+||
+
+[0<24040]

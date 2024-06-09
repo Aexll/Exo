@@ -1,0 +1,11 @@
+!40092!After long seconds of incomprehension, she exclaim:
+"Boys, I don't know what this is exactly, but I can tell ya this is a compass\!"
+Rook, the third soldier, protests.
+"Hum, Sergeant, I'm pretty sure that's a rock."
+"Of course it's a rock, dumbass\! But it vibrates stronger when I point it in this direction. Don't you understand?"
+
+#0# Continue
+
+||
+
+[0<40093]

@@ -1,0 +1,11 @@
+!51050!As you look around the room trying to make sense of the puzzle at the center,
+you accidentally trigger a hidden mechanism\!
+You watch in horror as almost all of the stone doors close in an instant, leaving you 
+with only one way out of the room: the central door that was open from the start.
+Dejected, you enter the corridor that is now your only option...
+
+#0# Continue
+
+||
+
+[0<52050]

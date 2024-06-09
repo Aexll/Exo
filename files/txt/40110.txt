@@ -1,0 +1,12 @@
+!40100!You hide behind the first thing you see, a stange-looking bush. You suddenly hear footsteps approaching.
+At the same moment, you notice movement in the bush. There is something with you.
+An odd four-legged creature jumps out of the bush, panically screeching.
+"Look\! The bush\! Freeze\!"
+Busted and cornered, you raise your hands an surrender to the soldiers.
+"Ah, don't worry, we ain't going to kill you\! You'll just have to do us a little favor..." 
+
+#0# Continue
+
+||
+
+[0<40120]

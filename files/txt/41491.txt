@@ -1,0 +1,15 @@
+!41491!"No...no that ain't possible...he..Rook couldn't."
+"Ma'am. Maybe he's still there...We could..."
+"No. Others could come. We have to leave."
+Cut is, for a second, speechless.
+"Ma'am...we're not gonna let him..."
+"Yes. Yes we are\! I won't let any of you die here\! No one\! We get outta here\!"
+Silence again. Agria's almost in tears. You all stay silent, like frozen in time. Finally, Agria break the silence.
+"We go. Now."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41092]

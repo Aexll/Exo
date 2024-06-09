@@ -1,0 +1,11 @@
+!30230!The weak glow of the plants allows you to distinguish some things
+in the darkness. With your eyes alone, you must choose where
+to go, despite the lack of information.
+
+#0# Left way is the right way.
+#1# Right is always the good one.
+
+||
+
+[0<30280]
+[1<30290]

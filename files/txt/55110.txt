@@ -1,0 +1,14 @@
+!55110!As you step into the dusty chamber, to your surprise, your foot does not land on firm stone.
+As you ponder what the weird ashy substance on the ground is, you are relieved when your radar
+confirms that this is the energy source that you were looking for.
+
+At that moment, your ears pick up a few strange echoes outside of the room. You quickly turn out
+your suit's lights, but find it hard to stop panicking at the thought of what could be out there.
+Being as discrete as you can, you nab one of the shelved urns and slowly make your way into the corridor.
+Now you only need to come back in one piece.
+
+#0# Run back to the entrance
+
+||
+
+[0<55150]

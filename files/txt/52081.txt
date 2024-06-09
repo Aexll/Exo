@@ -1,0 +1,13 @@
+!52081!Thankfully, you notice that the noise came from your suit and breathe a sigh
+of relief. You suit's radar simply alerted you that it could track
+the energy source once again.
+
+Feeling your heart race, you accelerate down the stairs and into the
+corridors, crossing through multiple rooms as well as a small stone
+bridge. Your goal is close, you can feel it\!
+
+#0# Head deeper inside the temple
+
+||
+
+[0<55010]

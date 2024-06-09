@@ -1,0 +1,15 @@
+!52140!Battered and bruised, you do not even take the time to check if your rifle is still
+working properly before aiming it at the creature. This monster is relentless,
+and your body likely won't be able to keep dodging for very long.
+However, the creature is already upon you as you shoulder the weapon,
+opening its massive jaw in a terrifying attack.
+
+Tensing your body, you press the trigger and close your eyes as the beam
+of light escapes the rifle. You feel a sharp pain on your left arm and
+stomach, leading you to believe that you might have been eaten.
+
+#0# ...
+
+||
+
+[0<52141]

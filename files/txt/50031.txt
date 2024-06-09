@@ -1,0 +1,12 @@
+!50031!These pillars mark the way toward a much larger stone temple
+which somehow escaped your view, masked by the surrounding vegetation.
+
+Making good use of this information, you take a shortcut
+to the temple through the terrain without exposing yourself
+to potential dangers.
+
+#0# Continue
+
+||
+
+[0<50060]

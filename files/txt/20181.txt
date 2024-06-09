@@ -1,0 +1,7 @@
+!20181!Added $yCreature skin and meat/$y to your inventory.
+
+#0# Continue
+
+||
+[i4<1]
+[0<20190]

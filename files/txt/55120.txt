@@ -1,0 +1,19 @@
+!55120!As you step into the dusty chamber, to your surprise, your foot does not land on firm stone.
+As you ponder what the weird ashy substance on the ground is, you are relieved when your radar
+confirms that this is the energy source that you were looking for.
+
+Your contentment is short-lived however. A brutal shriek echoes in the corridor behind you,
+leaving you with little time to react.
+
+#0# Face the abyss.
+#1# Use the scales to hide in the darkness
+
+||
+
+[v1<0]
+?#i14>0{
+[v1<2]
+}
+
+[0<55160]
+[1<55030]

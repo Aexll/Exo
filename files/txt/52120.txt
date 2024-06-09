@@ -1,0 +1,12 @@
+!52120!You throw the fragrant fruits at the creature's feet. At first, it does not
+appear to react at all, but you soon see the creature sniff the air before looking
+down at the fruits. Knowing that this will only buy you some amount of time,
+you turn tail and run as soon as the beast starts eating. 
+After running for a while in the direction of the signal, you make a mental note
+to not come back out in this direction and keep on going.
+
+#0# Continue
+
+||
+
+[0<55010]

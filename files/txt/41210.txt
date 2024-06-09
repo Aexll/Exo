@@ -1,0 +1,11 @@
+!41210!After a few steps in the burning settlement, Agria suddenly stops and turn back at you.
+"Wait, where's Cut ? You seen him civ' ?
+Silence. Agria's eyes widen.
+"No...no it ain't possible. He couldn't...I..."
+Suddenly a roar pipes up, much more powerful that the one you were used to...
+
+#0# Continue
+
+||
+
+[0<41220]

@@ -1,0 +1,9 @@
+!41002!"Holy Cungadero..."
+She signal you and the others to look.
+There is a village behind the bushes.
+
+#0# Continue
+
+||
+
+[0<41010]

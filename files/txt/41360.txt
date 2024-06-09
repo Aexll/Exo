@@ -1,0 +1,20 @@
+!41360!Rook however, is not dead yet, as he grabs a combat knife from his gear.
+He then repeatedly stabs it, then makes a deep slash in the beast's belly.
+After long and painful seconds, the Razor finally passes out. You tooses the body out and checks on Rook.
+The wounds in his belly are soo deep you can partially see his ripped out organs.
+Rook coughs blood.
+"Civ'...go...I won't make it. Tell Agria...I did my best."
+You hesitate for a moment. He indeed won't make it, but leaving him helpless here...
+
+#0# Leave
+#1# Hand him the rifle
+
+||
+
+[0<41370]
+[1<41361]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

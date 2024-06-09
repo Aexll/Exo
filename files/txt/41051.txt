@@ -1,0 +1,10 @@
+!41051!You quickly enter the construction, and do your best to hide your presence. You however notice Cut stopped moaning.
+Following his stunned look, you realize that you are not alone. There is a Razor in the hut. A smaller one.
+
+#0# Kill the Alien
+#1# Do not move
+
+||
+
+[0<41060]
+[1<41200]

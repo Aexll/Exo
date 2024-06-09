@@ -1,0 +1,11 @@
+!21110!You find a lookout where you can oversee the surroundings of the treehouse.
+It's where all the vividly alleys bustling with dozens of individuals converge on one point.
+You can see lines of straw baskets filled with fishes and meat dryer being either filled or emptied.
+
+#0# Aim for the treehouse
+#1# Come down
+
+||
+
+[0<21120]
+[1<21070]

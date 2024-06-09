@@ -1,0 +1,12 @@
+!40160!You don't know what that creature is, as well as if it is agressive.
+It however seems to struggle against the soldiers' heavy fire.
+The ennemy of my ennemy is my friend.
+In the chaos, you grab a stone on the ground, and quickly approaches the soldiers. They don't notice you just yet.
+You smash the head of the closest soldier, Cut, the bearded one. The other soldier, Rook, noticed you, however.
+"Contact\! Conta...Damnit\!"
+
+#0# Continue
+
+||
+
+[0<40161]

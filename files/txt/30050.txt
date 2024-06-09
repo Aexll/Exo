@@ -1,0 +1,13 @@
+!30050!You take the animal down, hear a small noise that sounds like a deflating tire and
+you move towards the body. Looking closer, you immediately regret your action,
+as the "monster" that you killed looks like a poor little purple ball on legs.
+
+#0# Take its skin and teeth.
+#1# Leave the body here.
+#2# Bury him and have a small funeral.
+
+||
+
+[0<30051]
+[1<30090]
+[2<30100]

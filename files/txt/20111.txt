@@ -1,0 +1,7 @@
+!20111!Added $yInscribed bark/$y to your inventory.
+
+#0# Continue
+
+||
+[i6<1]
+[0<21010]

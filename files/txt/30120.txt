@@ -1,0 +1,12 @@
+!30120!You return to your little exploration of this oasis before going to the source
+and you realize that there are more and more little balls
+looking at you from the trees. A little further and you arrive near what seems
+to be their habitat. However, you're unsure of the direction to take from here.
+
+#0# Go directly to the energy source.
+#1# Check out the creature's den.
+
+||
+
+[0<30180]
+[1<30190]

@@ -1,0 +1,13 @@
+!40330!You decide to stay hidden and wait for an opportunity.
+The soldiers keep shooting at the beast, which is still dodging, only with much more difficulty.
+Suddenly you hear the woman among them scream:
+"Take cover Blues\! Imma light'it up\!"
+She takes some kind of small device from her gunbelt, and toss it on the ground. A grenade.
+A bright light cover the whole area. You're blinded yourself, not able to see the events.
+You hear a scream, a bestial one, along with some other shots.
+
+#0# Continue
+
+||
+
+[0<40331]

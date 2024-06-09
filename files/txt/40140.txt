@@ -1,0 +1,12 @@
+!40140!The creature lies dead. Or is it? Cut carefully approaches the body, and checks for any sign of life.
+After a tense minute, he relaxes himself.
+"Well, that's dead, I'm quite sure of it."
+"Stop foolin' around, Blue\! That freak could have some friends\!"
+As they argue each other, you take a closer look at the creature. Its claws were indeed sharp, as sharp as a razor.
+It wears what looks like a belt made of fibers, which holds a rudimentary axe and some kind of purse.
+
+#0# Continue
+
+||
+
+[0<40141]

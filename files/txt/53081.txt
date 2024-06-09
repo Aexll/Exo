@@ -1,0 +1,10 @@
+!53081!The shadows across the bridge start to chant in a strange language as you escape...
+
+#0# Continue
+
+||
+
+[i12+1]
+Add Evil Eye to the inventory
+
+[0<55010]

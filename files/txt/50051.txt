@@ -1,0 +1,10 @@
+!50051!Something here feels wrong...
+
+#0# Continue
+
+||
+
+Add Evil Eye to the inventory
+
+[0<50060]
+[i12+1]

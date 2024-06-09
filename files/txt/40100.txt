@@ -1,0 +1,13 @@
+!40100!You quickly grab your toolkit and cut the rope. You start running towards the bushes while hearing the woman shout.
+"BLUES, WHAT'YALL WATIN FOR\! BRING ME THAT CUNT FOR FUCK'S SAKE\!"
+As you enter the thick of the forest, you hear gunshots whistle near you hears. Footsteps.
+They're coming. You have to find somewhere to hide.
+
+#0# Get down and not move
+#1# Hide in a nearby bush
+
+||
+
+[0<40200]
+[1<40110]
+

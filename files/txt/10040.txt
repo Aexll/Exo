@@ -1,0 +1,13 @@
+!10040!Thankfully, your suit's radar is still operational. You launch a scan,
+not hoping much from an unexplored planet in a leftover system, but after a brief moment 
+three green dots appear on the screen indicating multiple $benergy presence/$b.
+
+#0# Follow the signal that covers the widest area
+#1# Follow the strongest signal, despite it being further away
+#2# Follow the closest signal
+
+||
+
+[0<20010]
+[1<30010]
+[2<40010]

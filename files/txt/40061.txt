@@ -1,0 +1,10 @@
+!40061!He turns back to the woman.
+"Sergeant, about my plan..."
+The woman replies.
+"Y'already know what I think 'bout ya plan, Blue\! But now that we have backup, I might reconsider my opinion..."
+
+#0# Continue
+
+||
+
+[0<40062]

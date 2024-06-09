@@ -1,0 +1,11 @@
+!40060!You decide to cooperate and explain your situation to the soldier. She grunts.
+"Oh, so'ya were part of that Cargo, up there? Damn, knew this op' wasn't gonna end well...Abandoned system my ass\!"
+As she mumbles, one the the two other soldiers, a bearded man stats cutting the rope restraining you.
+"Sorry for that civ', you can't ever be too careful you know ? I'm sure you understand."
+
+#0# Continue
+
+||
+
+[0<40061]
+

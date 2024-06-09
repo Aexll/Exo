@@ -1,0 +1,11 @@
+!41120!You run with all your strength left, and hit the Razor with the entirety of your body.
+Despite the creature's stature it is destabilized and falls on the ground.
+But it quickly gets up, and smash in axe on your face.
+Not fast enough however, as a gunshot stops it in its endeavour.
+The razor falls on the ground, for good this time, as Agria gets back up, her sidearm in hands.
+
+#0# Continue
+
+||
+
+[0<41121]

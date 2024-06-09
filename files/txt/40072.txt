@@ -1,0 +1,10 @@
+!40072!Slowly, Agria gestures a tactical plan to her squad. Cut starts to get around the tree, with extreme caution.
+Meanwhile, Rook, the third soldier, slowly backs away, and ready himself to shoot at even the slightest move.
+Finally, Agria begin a steady walk in direction of the tree. She instill you to follow her.
+Something suddenly jumps out of the tree top and reach the trunk of another nearby tree.
+
+#0# Continue
+
+||
+
+[0<40073]

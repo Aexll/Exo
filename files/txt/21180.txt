@@ -1,0 +1,11 @@
+!21180!They look at each other then start producing various sounds in different tones that rings like a language. 
+After what sounded like a long conversation one of them steps forward showing leading you to the entrance.
+
+The two creatures make you cross a vividly village bringing you to one of their own,
+decorated with ornaments, it looks like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

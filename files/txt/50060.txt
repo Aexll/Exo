@@ -1,0 +1,18 @@
+!50060!You come into view of a massive stone temple, which had stayed hidden in the vegetation 
+until now. You quickly check with your radar and your doubts are confirmed: 
+the signal indeed comes from somehwere in the temple's depths.
+
+You are slightly taken aback at the sight of the stairs leading to the
+entrance of the temple: they are all too big and misshapen,
+making you question what kind of creatures may have used them.
+
+Not wanting to meet the sculptors, you make your way up to the temple's gate.
+It takes you some time to climb the giant steps but you eventually 
+come to face the stone arch that covers the entrance of the ruins.
+
+#0# Continue
+
+||
+
+[p<1]
+[0<50070]

@@ -1,0 +1,13 @@
+!52080!Slightly panicking at the realization that some things might be listening to
+the noises that you made until now, you traverse the room while trying to make
+as little noise as possible.
+
+Continuing forward, you go down a flight of stairs and freeze in your tracks
+while a noise rings around you. Is this some sort of alarm? Did this temple have
+a high security defense system, hidden within its depths?
+
+#0# Continue
+
+||
+
+[0<52081]

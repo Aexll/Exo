@@ -1,0 +1,7 @@
+!22001!Deleted $yCreature skin and meat/$y from the inventory.
+
+#0# Continue
+
+||
+[i4<0]
+[0<22020]

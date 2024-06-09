@@ -1,0 +1,12 @@
+!41001!Silence falls again.
+After a few steps, Agria suddenly freezes. She looks, left, then right, then turns back left.
+"Boys, it's gettin' stronger\! Whatever's this thing pointing, we're close to it\!"
+You and your friends start to walk faster, hoping for a miracle, without even knowing what there is to find.
+Suddenly, Agria, heading the group, orders everyone to stop.
+She takes a look through the bushes, the only thing keeping you from your target.
+
+#0# Continue
+
+||
+
+[0<41002]

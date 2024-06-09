@@ -1,0 +1,12 @@
+!41250!You run with all your strength left, and hit the Razor with the entirety of your body.
+Despite the creature's stature it is destabilized and falls on the ground.
+It however quickly recovers from youe attack, and is already charging back at you. 
+As a last resort solution, you try to evade its attacks, but the creature catches back and smash you with its axe.
+Not fast enough it seems, as it suddenly stops. Agria just shot the alien with her sidearm. 
+The alien falls on the ground, silenced. 
+
+#0# Continue
+
+||
+
+[0<41260]

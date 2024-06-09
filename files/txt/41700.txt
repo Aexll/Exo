@@ -1,0 +1,11 @@
+!41700!You're exhausted.
+You followed the stone's vibration for hours, and still you only see the same trees and the same rocks.
+A least you don't feel observed anymore. May it be by the alien or the soldiers.
+
+#0# Continue
+
+||
+
+[0<21010]
+
+[p<7]

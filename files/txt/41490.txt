@@ -1,0 +1,12 @@
+!41490!A the silence falls, you take a moment to examine the battle field. Agria is disposing of the last Razor.
+Meanwhile Cut approaches you.
+"Hell, I served for quite a few years, but this might have been my toughest battle."
+Unlike Cut, Agria seems however a lot less relieved.
+"Where's Rook, civ'? You didn't respond..."
+Silence.
+
+#0# Continue
+
+||
+
+[0<41491]

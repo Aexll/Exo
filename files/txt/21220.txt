@@ -1,0 +1,11 @@
+!21220!You approach them carefully while trying to begin a conversation. You do notice that they seem very surprised
+to see you, if not freightened.
+But what you quickly realize is that you are sharing a mutual lack of understanding.
+
+#0# Try to explain your situation through grand gestures
+#1# You raise your hands up in order to calm them
+
+||
+
+[0<21250]
+[1<21230]

@@ -1,0 +1,10 @@
+!52071!Is it your imagination, or are some of the bones less dusty than others ?
+
+#0# Continue
+
+||
+
+[i12+1]
+Add Evil Eye to the inventory
+
+[0<52090]

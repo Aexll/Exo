@@ -1,0 +1,8 @@
+!22080!You gently hand over your discovery, after examining it your interlocutor doesn't seem very happy.
+His eyes widen for a moment but eventually he settle down with what seems to be sigh.
+
+#0# Continue
+
+||
+
+[0<22090]

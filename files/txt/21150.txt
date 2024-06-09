@@ -1,0 +1,12 @@
+!21150!You point your barrel at them, hoping to get a reaction, but they stay clueless over what you're brandishing at them.
+Their heads tilt out of curiosity and they start communicating with each other.
+
+#0# Wait for them to respond
+#1# Shoot in the air to scare them
+#2# Aim and shoot at the creature
+
+||
+
+[0<21180]
+[1<21170]
+[2<21160]

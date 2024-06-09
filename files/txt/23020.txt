@@ -1,0 +1,10 @@
+!23020!The hours are long, too long. As you are tortured between the idea of getting out of this planet
+as soon as possible and the patience required to do so, you do your best to pass the time.
+
+Despite being torn apart by your endless thoughts you hold on.
+
+#0# Continue
+
+||
+
+[0<23030]

@@ -1,0 +1,35 @@
+!52061!However, to your horror, what you initially took for a piece of wood turns
+out to be a long bone broken in the middle, which your kick sent flying
+through the room, making noises as it collides with the stone floor.
+
+As the sensation of being watched rises again, you decide that no
+matter what, you should try to make as little noise as possible while you
+are in this part of the temple.
+
+$r[If you have two or more EVIL EYE in your inventory, you must pick
+the EVIL EYE \>\[2\]\< option.]/$r
+
+#0# Examine the bones on the floor
+#1# Cross the room while staying far away from the bones
+#2# EVIL EYE >[2]<
+
+||
+
+[v0<0]
+?#i12<2{
+[v0<1]
+}
+[v1<0]
+?#i12<2{
+[v1<1]
+}
+[v2<0]
+?#i12>1{
+[v2<2]
+}
+
+[0<52070]
+[1<52080]
+[2<52090]
+
+Choice 2 requires 2+ evil eyes

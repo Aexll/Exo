@@ -1,0 +1,18 @@
+!55050!Finally. After all of this time, after all of the troubles, your goal is within your grasp\!
+The signal is so strong now, you even feel a little lightheaded. The two massive doors standing
+in front of you are unlike anything you've ever seen. Beautifully decorated, they remind you of
+antiquities that you only saw in history books.
+
+However, you are now faced with a big problem: These doors must certainly be heavy, and they look
+like they have not been opened in ages. If you were to force them open, it will likely make
+a lot of noise. The doors might get damaged in the process too, which could anger the locals.
+You'd rather not add "destroyer of priceless artifact" to your resume right now. 
+On the other hand, this could very  well be your only choice if you want to leave this planet.
+
+#0# No door will stop me!
+#1# The last thing I want is more attention
+
+||
+
+[0<55070]
+[1<55080]

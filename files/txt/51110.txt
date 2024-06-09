@@ -1,0 +1,15 @@
+!51110!As you contemplate the various glyphs lining the walls, you suddenly hear
+muffled noises coming up from the stairs where you originally came from.
+You focus on the sounds, confirming your suspicions; people are coming up the steps\!
+
+You do not know how the natives would react to your presence, but judging from 
+the nature of this temple you can easily imagine that being here wouldn't make them happy. 
+Not wanting to find out if they eat humans, you turn coat and enter the opposite end
+of the room. Trying to make as little noise as possible, you climb down the stairs,
+certain that the energy source is not far.
+
+#0# Continue
+
+||
+
+[0<55010]

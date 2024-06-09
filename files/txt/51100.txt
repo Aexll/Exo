@@ -1,0 +1,14 @@
+!51100!The massive central glyph is beautifully decorated, with its outer sides
+lined with small layers of precious metals. Multiple dotted patterns 
+cover the surface of the planet, representing what you imagine to be 
+various continents, regions or perhaps even cities.
+Whoever made this must have spent a lot of time getting the details just right.
+Surprisingly, they must also have had access to a lot of information regarding 
+their planet. Was this civilisation as primitive as the planet reports 
+led you to believe?
+
+#0# Continue
+
+||
+
+[0<51110]

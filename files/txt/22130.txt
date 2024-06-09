@@ -1,0 +1,9 @@
+!22130!You put your hand on your chest and start pronouncing slowly and distinctively "Human".
+Your interlocutor's eyes widen out of curiosity, he utters another sound that you can't
+quite grasp the meaning, but at least it rings friendly.
+
+#0# Ask him about the blue trails
+
+||
+
+[0<22140]

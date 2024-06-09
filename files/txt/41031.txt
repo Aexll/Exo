@@ -1,0 +1,22 @@
+!41031!An explosion. You can hear some kind of bestial scream coming from the huts. One of them is already catching fire. 
+This is the right moment.
+You jump out of your cover and begin your charge. After a few seconds feeling like hours, you reach the wall.
+Your moment of relief is quickly faded however, as you hear a sonorous grunt from above. 
+One of the Razors is standing atop of the barricade, looking at you with visible rage.. 
+
+
+#0# Throw the explosive device
+#1# Grapple the Alien
+
+||
+
+
+[0<41300]
+[1<41040]
+
+[v1<0]
+?#i1=1{
+[v1<2]
+}
+
+[p<21]

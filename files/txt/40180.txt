@@ -1,0 +1,12 @@
+!40180!You notice a shining object hidden in the grass. It's a polished, round white cristal.
+As you grab the trinket, you notice slight vibrations coming from it.
+You walk around trying to understand the nature of the stone.
+You notice after a moment that the vibrations variates depending on the direction you're walking.
+Could this rock be some kind of compass indicating something. Maybe something of value?
+With this as your only clue as to where to go, you decide to follow the direction the rock is reacting to.
+
+#0# Continue
+
+||
+
+[0<41700]

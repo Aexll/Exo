@@ -1,0 +1,17 @@
+!51071!You are standing below a gigantic stone planetarium, with foreign
+constellations covering the "sky" above you.
+
+The walls were not left alone either. They are covered in glyphs
+representing various celestial bodies. Judging from their positions,
+you guess that the bigger ones represent the sun, the moons and
+the planet itself.
+
+#0# Take a look at the flaming glyph representing the sun
+#1# Take a look at the two spheres representing the moons
+#2# Take a look at the central glyph representing the planet
+
+||
+
+[0<51080]
+[1<51090]
+[2<51100]

@@ -1,0 +1,11 @@
+!41460!You plunge on the side, evading the beast's charge. After a quick roll to get in position, you ready your rifle.
+The alien is already coming back at you.
+In an instant of almost freezed time, you face each other, axe against gun, claws against fingers.
+A shot's fired. The beast stops. You hold you breath.
+The Razor falls on the ground.
+
+#0# Continue
+
+||
+
+[0<41490]

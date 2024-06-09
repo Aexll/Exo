@@ -1,0 +1,8 @@
+!20050!You stay focused on the signal while making sure you don't run into any obstacles or brambles,
+quickly finding your way under the green foliage.
+
+#0# Continue
+
+||
+
+[0<21010]

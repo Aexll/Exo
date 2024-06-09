@@ -1,0 +1,12 @@
+!41481!Out of options, you grab some kind of tiny, sharp rock and stick it in the Razor's eye.
+The alien slightly back away, but lets out a enraged growl. It seems you just angered it even more.
+Suddenly, a gunshot is heard. Cut. He shot the Razor in its blind spot, the burst eye. It however is not dead yet.
+You take advantage of this distraction to hit the beast with the stone, in a spot you now have acess to: the neck.
+The beast screams in pain, but you keep pushing the rock further under the skin.
+Then you violently slash the neck spillling blood all over you. The Razor falls, dead.
+
+#0# Continue
+
+||
+
+[0<41490]

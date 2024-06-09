@@ -1,0 +1,12 @@
+!40220!Determined to help your former pursuers, you grab a nearby rock.
+Screaming at the top of your lungs, you throw it with all your strength.
+The creature, which wasn't paying attention to you, seems distracted for a second.
+One second too much. Full of holes, the beast heavily falls on the ground.
+As the silence falls, Cut approaches you, weapons in your direction.
+"Well, well, the straggler returned as the savior it seems..."
+
+#0# Continue
+
+||
+
+[0<40140]

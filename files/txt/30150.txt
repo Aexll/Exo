@@ -1,0 +1,9 @@
+!30150!After following them, you realize that they were pointing to something,
+the entrance of their burrow, it's quite strange since the radar seems
+to detect something coming from inside.
+
+#0# You enter, it will perhaps lead you somewhere
+
+||
+
+[0<30190]

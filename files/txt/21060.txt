@@ -1,0 +1,11 @@
+!21060!You get near the entrance, after a quick check you dive in and apparently it's your lucky day, no one is home.
+But to your surprise everything is primitive, straw mattress, potteries,
+there is no sign of an energy source in there.
+
+You don't have much time to be disappointed though, as you feel something entering the hut in your back.
+
+#0# Continue
+
+||
+
+[0<21061]

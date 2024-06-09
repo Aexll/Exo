@@ -1,0 +1,15 @@
+!40080!You aim your rifle and take your shot. A scream pierces out of the tree top, and a large humanoid creature jumps to the ground. 
+It exceeds the average human height, despite being slightly crooked on himself.
+His right, long arm is holding is left one, which you probably hit with your shot.
+What really strikes you is it face, seemingly enraged and savage.
+The creature suddenly rushes towards you, its large claws ready to tear you up.
+"CONTACT\!"
+All as one, the soldiers unleash a deadly storm of bullets, blasting the beast away.
+As the silence falls, Cut cheers you.
+"Damn, nice shot, civ'..."   
+
+#0# Continue
+
+||
+
+[0<40090]

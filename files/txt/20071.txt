@@ -1,0 +1,7 @@
+!20071! Added $ySpear/$y to your inventory.
+
+#0# Continue
+
+||
+[i8<1]
+[0<21010]

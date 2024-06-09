@@ -1,0 +1,10 @@
+!40151!"CONTACT\!"
+The soldiers start unleashing a deadly rain of bullets, which the beast immediatly dodges with visible difficulty.
+
+#0# Backstab the soldiers
+#1# Distract the creature
+
+||
+
+[0<40160]
+[1<40170]

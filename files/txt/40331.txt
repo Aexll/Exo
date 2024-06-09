@@ -1,0 +1,9 @@
+!40331!"Don't let it get away damnit\!"
+You then hear footsteps movin away. You wait a few minutes. Then head out of your hideout.
+There is no trace of the soldiers nor the creature. Or is there?
+
+#0# Continue
+
+||
+
+[0<40180]

@@ -1,0 +1,13 @@
+!41340!You take out your trusty toolkit and begin the process.
+Thanks to the device, efficiency, it only takes a few seconds to extract the radio.
+As you step out of the shipwreck, you're suddenly pulled from behind. Fortunately you recognize the hand holding you.
+Rook silently signify you to make as few noise as possible, and for good reasons.
+You suddenly hear the characteristic screechings the Razors make.
+You and Rook wait during painfully long seconds. 
+Eventually you hear the screeching withdraw, and you slowly get out of your hideout.
+
+#0# Continue
+
+||
+
+[0<41500]

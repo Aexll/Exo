@@ -1,0 +1,10 @@
+!20080!You scrub the powder and put it in a small capsule, this might be a glimpse at your way out but what you have
+in your hands won't be enough to power the radio module.
+
+You keep moving forward.
+
+#0# Continue
+
+||
+
+[0<20081]

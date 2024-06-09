@@ -1,0 +1,8 @@
+!41520!The Big One suddenly charges at you, swinging its axe in the air.
+It closes the distance before you can even take a shot, and violently tackle you.
+
+#0# Continue
+
+||
+
+[0<41530]

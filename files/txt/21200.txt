@@ -1,0 +1,11 @@
+!21200!After almost half an hour the door opens in a cracking noise,
+coming out of it are two humanoids covered in brown scales.
+They are about... 1 no 2 meters, armed with primitives spears.
+
+#0# Come out of your cover and talk to them
+#1# Wait for them to pass by and sneak into the barrier
+
+||
+
+[0<21220]
+[1<21210]

@@ -1,0 +1,12 @@
+!40230!You don't know what that creature is, as well as if it is agressive.
+It however seems to struggle against the soldiers' heavy fire.
+The ennemy of my ennemy is my friend.
+You grab a stone on the ground, and quickly approaches the soldiers.
+They don't hear you with all the uproar. You smash the head of the closest soldier, the bearded one.
+Rook, noticed you, however.
+
+#0# Continue
+
+||
+
+[0<40231]

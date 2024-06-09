@@ -1,0 +1,33 @@
+!55070!Without hesitation, you quickly grab a nearby stone and ram it with all of your strength into the door.
+
+Perhaps because of age, or perhaps because of your desesperation, the stone goes through the rock,
+cracking one of the doors in half. The rock escapes your hand and crashes into the locked chamber,
+making a huge noise that reverberates through the temple. If something was on your tail,
+it won't be long until it finds you now.
+ 
+$r[If you have exactly two EVIL EYE in your inventory, you must pick
+the EVIL EYE \>\[2\]\< option. If you have three or more EVIL EYE
+in your inventory, you must pick the EVIL EYE \>\[3\+\]\< option.]/$r
+
+#0# Enter the Vault
+#1# EVIL EYE >[2]<
+#2# EVIL EYE >[3+]<
+
+||
+
+[v0<0]
+?#i12<2{
+[v0<1]
+}
+[v1<0]
+?#i12=2{
+[v1<2]
+}
+[v2<0]
+?#i12>2{
+[v2<2]
+}
+
+[0<55100]
+[1<55110]
+[2<55120]

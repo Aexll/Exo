@@ -1,0 +1,12 @@
+!21161!You open your eyes only to find the creature dead. 
+Your finger is on the trigger, was it a reflex or a bit of luck you don't know, you can only feel
+its corpse crushing your rib cage. With a great deal of efforts you manage to extricate yourself from under the body.
+
+Inside the enclosure you sense a commotion growing, you've been spotted and reinforcements are incoming.
+Without missing a beat you start running away, as fast as possible, venturing into the jungle once again.
+
+#0# Continue
+
+||
+
+[0<21162]

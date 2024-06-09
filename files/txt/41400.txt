@@ -1,0 +1,15 @@
+!41400!In an instant you are thrown on the ground, Razor crushing you under its weight.
+You can hardly breathe, but what really scares you are the sharp claws and axe getting closer to you face.
+
+#0# Kick the Alien in the leg
+#1# Stab the Alien with the Grappling Hook
+
+||
+
+[0<41410]
+[1<41420]
+
+[v1<0]
+?#i1=1{
+[v1<2]
+}

@@ -1,0 +1,18 @@
+!30100!Many of the balls join you during the funeral,
+seemingly to honor their friend, their comrade, killed by your fear.
+After the ceremony has ended, the purple creatures observe you with a strange look.
+Maybe they want to tell you something?
+
+#0# Let's follow them; they surely know something about what you're looking for.
+#1# You decide to decimate them too.
+#2# You ignore their indication, it may well be a trap.
+
+||
+
+[0<30150]
+[1<30170]
+[2<30180]
+
+[v2<0]
+?#i0>0{
+[v2<2]}

@@ -1,0 +1,11 @@
+!21170!The sound of the detonation makes them cover their ears and back off a few meters.
+Your show of force seems to have paid off, they're leading you to the entrance.
+
+The two creatures make you cross a vividly village bringing you to one of their own,
+decorated with ornaments, it looks like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

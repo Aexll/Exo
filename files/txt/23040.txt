@@ -1,0 +1,17 @@
+!23040!You take advantage of a moment when no one is watching to sneak out near the fragile bark.
+In a matter of seconds, you manage to break a path through the thin wood.
+
+By the time the guards react you've already passed one of your legs through the opening.
+But as they start coming for you make your whole body cross through.
+
+Now in the dark, you hold your breath, hoping that the tip of their spear won't you reach you.
+On the other side you hear the Rahk'at panicking, and judging by the sound of their footsteps
+they're trying to break through, but soon all the noises ceases and the footsteps fade away.
+
+#0# Get out and get the pot
+#1# Wait for a moment
+
+||
+
+[0<23050]
+[1<23020]

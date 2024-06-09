@@ -1,0 +1,25 @@
+!21010!Your walk through the dense jungle leads you to a barrier, a long row of sculpted logs with
+a large and primitive wooden door at its center.
+You check your radar one more time, the source of the signal is here.
+
+#0# Hide in a bush and wait for the door to open
+#1# Knock at the door
+#2# Climb the rempart
+#3# Try to open the door with your tools
+
+||
+[p<5]
+[0<21200]
+[1<21140]
+[2<21100]
+[3<21020]
+
+[v2<0]
+?#i1>0{
+[v2<2]
+}
+
+[v3<0]
+?#i2>0{
+[v3<2]
+}

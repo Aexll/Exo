@@ -1,0 +1,12 @@
+!41010!You can see five, no, six huts, protected by a wall made of various material, and grouped around a massive tree.
+On that same tree is built a seventh hut, probably the home of some kind of chief.
+Around the huts you can see some figures lying around.
+With a closer look, you realize they are almost identical to the alien you fought earlier.
+They all wear weapons, some which seems to be made of rough metal. The soldiers seems in awe. Cut breaks the silence.
+"So that's where they live..."
+
+#0# Continue
+
+||
+
+[0<41011]

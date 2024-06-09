@@ -1,0 +1,12 @@
+!52111!What you did not expect was the beast using its weight to ram into your body.
+You are easily flung away and crash into the nearest stone wall.
+
+You stifle a cry of pain, and quickly grab the rifle that had fallen beside you.
+Remembering your days of combat training, you drop and roll as the beast
+savagely claws at the place that you used to occupy a few seconds ago.
+
+#0# Continue
+
+||
+
+[0<52140]

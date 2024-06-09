@@ -1,0 +1,11 @@
+!22030!You can sense anger growning from the crowd around you.
+As cries of protest start to erupt around you, you realize that
+you must make a decision.
+
+#0# You need to get out of here!
+#1# You need to confront the crowd!
+
+|| 
+
+[0<22050]
+[1<22040]

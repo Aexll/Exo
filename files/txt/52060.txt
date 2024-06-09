@@ -1,0 +1,13 @@
+!52060!When you enter the dimly lit room, you notice that it is far larger than
+its exterior would have let you believe. Insects of various kinds run rampant
+in this part of the temple, and dust seems to have settled into every crevice.
+
+While your eyes look up at the stone ballustrade hanging over the room,
+your foot inadvertently kicks into a piece of wood on the floor.
+
+#0# continue
+
+||
+
+[p<16]
+[0<52061]

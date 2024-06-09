@@ -1,0 +1,9 @@
+!40300!You decide to slowly back away from the glade.
+When you think about it, you're not even sure this creature is really dead.
+Maybe it was just waiting for you to come closer...
+
+#0# Continue
+
+||
+
+[0<40310]

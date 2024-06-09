@@ -1,0 +1,13 @@
+!23180!"Come on! Cut, Rook, give them hell\!"
+
+The soldiers prepared their attack it seems. They throw some kind of handmade device on a nearby hut,
+causing it to explode and catch fire. The battle keeps going. Around you, is only fire, blood and screams.
+The Rahk'ats are falling one by one, even their strongest warriors.
+
+Finally the dust settles, and only silence remains.
+
+#0# Continue
+
+||
+
+[0<23190]

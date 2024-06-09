@@ -1,0 +1,11 @@
+!30270!The markers on the wall, leads you in front of the chief of the monsters, at least it has
+the appearance of it, in view of its size and its shape. Behind him stands a fresco,
+which, by its drawings and what it seems to tell cannot
+have been drawn by the small beasts. After having observed you for a moment,
+the huge one begins to come towards you with its mouth wide open to eat you.
+
+#0# Time to leave!
+
+||
+
+[0<30360]

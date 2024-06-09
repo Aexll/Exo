@@ -1,0 +1,11 @@
+!21160!
+The creature falls on the ground bleeding out and screaming in pain the other one start rushing towards you.
+It's fast, too fast\! It swoops on you in the blink of an eye.
+
+You fall on the ground, hear a gunshot, then everything becomes dark.
+
+#0# Continue
+
+||
+
+[0<21161]

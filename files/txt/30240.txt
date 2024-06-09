@@ -1,0 +1,13 @@
+!30240!There is a weak natural bioluminescence in the cave that barely allows you to perceive the outline of your path.
+You hear the growls of the creatures and you feel the danger coming. You arrive at
+what seems to be two different paths but something prevents you from passing
+by blocking your steps, so you take the other one and arrive in a slightly better lit
+room where a huge being is sleeping.
+After your arrival, the grunts concentrate and wake up the chief who after a shout launches all the monsters
+after you. You see that you couldn't kill all of them, they're too much.
+
+#0# Run away?
+
+||
+
+[0<30300]

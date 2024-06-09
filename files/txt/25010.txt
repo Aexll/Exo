@@ -1,0 +1,11 @@
+!25010!You take hold of the ancient weapon and go back into the relative safety of the barrier.
+A few seconds later the firefight starts again.
+
+Gathering all your strength you throw the spear into the fray before taking cover behind one of the huts,
+from where you see the Rahk'at surround them in all directions and take them down behind the vegetation.
+
+#0# Continue
+
+||
+
+[0<25040]

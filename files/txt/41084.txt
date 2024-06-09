@@ -1,0 +1,10 @@
+!41084!Between two gasps, Cut responds.
+"I'm workin' on it, ma'am..."
+"Not on my watch, Blue\! C'mon boys, we got what we wanted. Let's get outta here."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41090]

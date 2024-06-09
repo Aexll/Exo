@@ -1,0 +1,9 @@
+!41640!The axe might be your only chance, but the you can barely reach it.
+Meanwhile the Razor is opening its mouth, revealing sharp teeth, with a serpentine-like tongue dancing along its jaw.
+You almost have the axe in hand...
+
+#0# Continue
+
+||
+
+[0<41641]

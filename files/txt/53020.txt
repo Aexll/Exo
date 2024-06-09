@@ -1,0 +1,21 @@
+!53020!As your progress through the tunnel, you end up arriving in an open area.
+In front of you is a strange road that seems to have been built out of
+dozens of pillar tops, each standing taller than 10 meters.
+Since the way behind you is closed, you must find a way to progress
+forward. But how ? Even if all of the pillars are less than a meter apart,
+any error on your part will almost certainly lead to your death.
+
+#0# Walk slowly and carefully across the pillar road
+#1# Run on top of the pillar road
+#2# Use the Grappling Hook to traverse the pillar road
+
+||
+
+[v2<0]
+?#i1>0{
+[v2<2]
+}
+
+[0<53030]
+[1<53040]
+[2<53050]

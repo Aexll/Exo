@@ -1,0 +1,20 @@
+!53010!As you search around the entrance for hidden mechanisms, you discover something.
+One of the carvings that looks like a small river has tiny bubbles sculpted 
+into the wall. One of the biggest bubbles can be pushed inside the wall,
+but your fingers are sadly too big to trigger the mechanism.
+
+Thankfully, you do have a toolkit, and with it an ice pick\! You carefully use it
+to press the stone button and hear a low rumbling sound. As you look around,
+you realise that the wall on your left has opened. You enter the damp passageway
+and notice that it is covered in rubble compared with the corridor that you
+just left. As you wonder if it's worth it to go in this direction,
+you notice that the secret passage is slowly closing\!
+
+#0# Head into the secret passage without looking back
+#1# Run back before the door closes & try one of the rooms
+
+||
+
+[p<17]
+[0<53020]
+[1<52010]

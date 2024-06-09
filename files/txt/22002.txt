@@ -1,0 +1,7 @@
+!22002!Deleted $yAmulet/$y from the inventory.
+
+#0# Continue
+
+||
+[i5<0]
+[0<22060]

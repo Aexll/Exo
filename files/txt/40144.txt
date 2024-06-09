@@ -1,0 +1,8 @@
+!40144!Added $yRifle/$y to your inventory.
+
+#0# Continue
+
+||
+
+[i0<1]
+[0<41000]

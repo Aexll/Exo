@@ -1,0 +1,15 @@
+!30040!You look for the highest tree around, and after a short walk you find what you seek. After having taken
+your momentum you throw your grappling hook on the highest branch and start your ascent of the giant.
+
+At the top, you get a nice overview of the area. The tree you are on is not far from the exit of
+what seems to be a jungle. It is in fact an oasis in the middle of a huge desert and you can see
+that there are other oasis around the one you crashed in. In the one that is nearest to yours,
+you see a somewhat metallic structrure which reflects the sunlight.
+Now, the journey doesn't seem impossible at all\!
+
+#0# This might be another crashed ship. Let's investigate.
+
+||
+[p<14]
+
+[0<30080]

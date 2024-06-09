@@ -1,0 +1,10 @@
+!30320!You want to discover what's underneath, and try to somewhat go below, you can see that the trap
+is clearly made for little preys, that's why it didn't hurt you that much.
+You hear a noise that comes closer,
+almost like steps that are coming closer...
+
+#0# You go and avoid whoever is coming behind you.
+
+||
+
+[0<30380]

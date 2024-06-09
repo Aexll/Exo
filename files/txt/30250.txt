@@ -1,0 +1,13 @@
+!30250!You take and open the logbook of the ship, before starting to read what's in it.
+$TDay 1: After the mother ship was damaged, the three of us were forced
+to leave it and take this safety capsule.
+After we escaped, we crashed on this weird planet that we have little data on and on top of it the pod's radio
+stopped working for some reason\! After we found out that this place
+is a gigantic desert, we decided to leave this place and abandon
+our capsule here. We'll place a few sandtraps around it and leave a few markings on trees to return here./$T
+
+#0# Resume your journey.
+
+||
+
+[0<30350]

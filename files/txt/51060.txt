@@ -1,0 +1,12 @@
+!51060!As you slot the cube into the altar, a grumbling noise echoes through the building.
+One by one, all of the opened stone doors close to your dismay.
+
+As you curse your idea to solve that damned cube, you are surprised by a final sound;
+one of the doors that were closed from the start opens before your eyes\!
+Not willing to risk it closing again, you make your way inside.
+
+#0# Continue
+
+||
+
+[0<51070]

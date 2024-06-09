@@ -1,0 +1,13 @@
+!51040!As you pick up the cube for the first time, you are surprised by how light it is in your hands.
+Looking around the sculpted lines, you find out that you can easily rotate multiple pieces
+of the device to change how the lines connect to each other.
+
+You lose track of time as you focus on solving the cube, not letting small errors stall your progress.
+As you face another roadblock, you realise that the finished cube has to fit on the slot
+in the altar\! You quickly change the position of the angles and solve the cube\!
+
+#0# Place it on the altar
+
+||
+
+[0<51060]

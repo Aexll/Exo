@@ -1,0 +1,12 @@
+!51080!The flaming ball of gas of this system has been beautifully carved
+on a wall. You notice that multiple figures carved in the rock seem
+to walk in procession around the sun, like a belt of asteroids.
+Unable to translate the writings that accompagny them, you are
+only convinced of the importance of the sun in their local mythology.
+This makes sense, given that the natives had to live on a desert planet.
+
+#0# continue
+
+||
+
+[0<51110]

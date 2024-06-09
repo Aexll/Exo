@@ -1,0 +1,12 @@
+!21120!You arrive on the treehouse's balcony. After a quick glance at the interior you finally enter the hut. 
+Once inside you realize how primitive it is. It's in fact exactly like the stories you read about
+early civilisations. Straw mattress, potteries, paintings on the wall depicting weirdy shaped animals
+and hunting parties but no sign of an energy source anywhere.
+
+However your archeologist career is cut short by incoming footsteps.
+
+#0# Continue
+
+||
+
+[0<21130]

@@ -1,0 +1,7 @@
+!20081!Added $yPowder/$y to your inventory.
+
+#0# Continue
+
+||
+[i7<1]
+[0<21010]

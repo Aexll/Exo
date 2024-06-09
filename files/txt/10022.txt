@@ -1,0 +1,8 @@
+!10022!Added $yGrappling hook/$y to your inventory.
+
+#0# Continue
+
+||
+
+[0<10030]
+[i1<1]

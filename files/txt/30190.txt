@@ -1,0 +1,24 @@
+!30190!Their burrow is strangely large for such small creatures, once inside, all the tiny balls
+hide themselves from you while observing you. Your attention then turns to all
+the little indoor tunnels where the ones living there move around. Small plants provide light
+but the environment remains very dark,
+it is difficult to see properly despite this you keep walking. 
+
+#0# Let's see what's underneath!
+#1# Use a distress signal light from your toolkit.
+#2# Brandish the skin and teeth to intimidate the creatures.
+
+||
+[p<12]
+
+[0<30230]
+[1<30220]
+[2<30240]
+
+[v1<0]
+?#i2>0{
+[v1<2]}
+
+[v2<0]
+?#i11>0{
+[v2<2]}

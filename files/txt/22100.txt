@@ -1,0 +1,13 @@
+!22100!Shortly after the chief utters a grand signal upon which a procession starts to form.
+You go with the flow while guards are keeping you in sight.
+
+The group, almost entirely composed of males starts moving towards the door and into the jungle.
+As you walk alongside them, you check your radar, it seems like you're heading towards the strongest signal.
+
+Amongst the males you notice that one does not have his scales streaked with blue trails.
+
+#0# Continue
+
+||
+
+[0<22101]

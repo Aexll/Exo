@@ -1,0 +1,10 @@
+!40161!Agria suddenly pulls out a grenade and toss it on the ground. A bright light bursts from it, blinding the place.
+Everything is blurry, but you can clearly see the woman dragging one of the soldiers away.
+After what feels like ages, you finally regain clear sight, and realize that...you're alone.
+There is no trace of the Alien or the soldiers. Or is there?
+
+#0# Continue
+
+||
+
+[0<40180]

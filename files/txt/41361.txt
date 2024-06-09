@@ -1,0 +1,10 @@
+!41361!You take a look at Rook's resigned, yet determined face.
+After a second of hesitation, you hand the soldier you rifle. He takes a moment, then responds.
+"...Thanks. Thanks civ'."
+You leave you friend. You get around a hut and, after a moment, you hear a gunshot.
+
+#0# Continue
+
+||
+
+[0<41362]

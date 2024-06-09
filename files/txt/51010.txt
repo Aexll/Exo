@@ -1,0 +1,36 @@
+!51010!As you enter the strange room, you feel a strange sensation crawl upon your skin.
+Looking around, you find a stone cube placed on an altar at the center of the room.
+Multiple stone doors face you on the other side of the room, but most of them are closed.
+As you take a closer look at the cube, you realise that its sides have been carefully
+scultped to ressemble a puzzle box or some kind of mechanism. If you were to fix the cube
+and place it again on the altar, could you open the stone doors\?
+
+$r[If you have at least one EVIL EYE in your inventory, you
+must pick the EVIL EYE \>\[1\]\< option\]/$r
+
+#0# Spend time trying to solve the puzzle cube
+#1# Walk around the room and look for hints
+#2# EVIL EYE >[1]<
+
+||
+
+[p<9]
+
+[v0<0]
+?#i12<1{
+[v0<1]
+}
+[v1<0]
+?#i12<1{
+[v1<1]
+}
+[v2<0]
+?#i12>0{
+[v2<2]
+}
+
+[0<51040]
+[1<51050]
+[2<51020]
+
+Choice 2 requires 1+ evil eyes

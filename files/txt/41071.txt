@@ -1,0 +1,9 @@
+!41071!You aim your rifle and shoot at the most vulnerable alien, the one one the right.
+The projectile hit it in the leg.
+The sinistrous alien let out a painful scream. Then, in a sonorous growl, it starts rushing at you.
+
+#0# Continue
+
+||
+
+[0<41072]

@@ -1,0 +1,13 @@
+!52040!The two figures seem to be primitive warriors preparing for battle.
+As you look close, it become quickly clear that although they aren't human,
+they seem to have a few human characteristics. Here, one of the figures
+is rallying the others against a massive creature. There, another
+is craddling one of the dead warriors against his body.
+Your head turns at the notion of how many conflicts may have been depicted
+in this temple, only to have ended lost and forgotten.
+
+#0# continue
+
+||
+
+[0<52050]

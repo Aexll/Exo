@@ -1,0 +1,11 @@
+!40141!Inside, you find a few roughly carved stones, along with a circular, polished crystal.
+As you examine the jewel, it starts vibrating.
+"OI\! What'ya doin, straggler, ya're still suspicious\!"
+Agria approaches you, still grumpy but visibly more relaxed. She takes the crystal from your hands. 
+Silently, she examine the stone, take a step forward, two steps backward, on step on the left, one step on the right.
+
+#0# Continue
+
+||
+
+[0<40142]

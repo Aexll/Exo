@@ -1,0 +1,12 @@
+!30090!You get up from the body and continue to venture into this oasis to discover a little and learn more.
+After a few minutes, you feel that something is watching you.
+It turns out that several creatures have been with you all along. Now that you have noticed them 
+they start to run away, but you easily catch up with them and discover the entrance to what seems to be their lair.
+
+#0# Enter their den, maybe it will lead you somewhere.
+#1# Head back in search of the energy source.
+
+||
+
+[0<30190]
+[1<30180]

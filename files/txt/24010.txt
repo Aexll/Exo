@@ -1,0 +1,12 @@
+!24010!As much as you want to, you simply cannot do it.
+
+Who could predict the consequences of such an act? Without a rite of passage these people might not survive.
+
+With that in mind you resign, abandoning the idea of coming back home,
+all for the benefit of this foreign sentient life.
+
+#0# Continue
+
+||
+
+[0<24020]

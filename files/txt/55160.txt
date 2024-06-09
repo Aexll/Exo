@@ -1,0 +1,10 @@
+!55160!The dust at your feet is blown away as you turn in the direction of the horrible shout.
+A creature born of your worst nightmares bursts through what is left of the door, clawing its way toward you.
+
+You barely have the time to react before the monster is already upon you.
+
+#0# Try your best to fend off the creature
+
+||
+
+[0<52100]

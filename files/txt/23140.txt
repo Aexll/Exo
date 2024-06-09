@@ -1,0 +1,14 @@
+!23140!You stand in the middle of the firefight, while projectiles whooshes around you.
+You bravely raises both of your hands to stop the hostilities.
+
+After a few seconds the federation soldiers hold their fire.
+
+"What the hell are you doing here?"
+
+#0# Explain that the energy sources are the Rahk'at's ashes
+#1# Join the soldiers
+
+||
+
+[0<25000]
+[1<23170]

@@ -1,0 +1,16 @@
+!51070!The atmosphere changes as you make your way toward the next room.
+You climb a long flight of stairs which leaves you panting, but you
+curiously do not feel fatigued. Everything in this part of the temple
+seemsto be slightly tinted in blue, and weird light refractions dance
+on the stone walls and floor.
+
+As you finally enter the next room, you are taken aback by what you
+find inside. Unlike many of things that you have found inside this temple,
+you know for sure what this room must have served as.
+
+#0# Continue
+
+||
+
+[p<9]
+[0<51071]

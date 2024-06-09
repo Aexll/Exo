@@ -1,0 +1,10 @@
+!21240!You're let inside the enclosure under heavy guard. Here you discover a vividly village filled with dozens
+of individuals.
+
+They bring you in front of one of their kind, decorated with ornaments, it seems like you found their leader.
+
+#0# Continue
+
+||
+[p<10]
+[0<22000]

@@ -1,0 +1,20 @@
+!20060!By the looks of it, it's been dead for several weeks. Its skin is streaked with blue lines
+that are made up of a sort of powder. Not only that but it is scratched on several places.
+It is craddling a spear in his arms. While you study the body your radar suddenly reacts.
+
+While the signal is very weak, it is definitively there. It seem to be reacting to the /bblue powder/$g.
+
+#0# Leave the body and keep going
+#1# Grab the spear 
+#2# Collect the powder
+
+||
+
+[0<20050]
+[1<20070]
+[2<20080]
+
+[v2<0]
+?#i2>0{
+[v2<2]
+}

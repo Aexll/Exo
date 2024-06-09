@@ -1,0 +1,14 @@
+!41370!After a few minutes you hear footsteps coming in your direction. Not coming from aliens.
+Cut and Agria, covered in blue blood, but roughly untouched.
+"Civ',it's hell out there, we need to get outta here\!"
+She notices the radio in your hands.
+"You have the radio? Great, now let's find Rook and we're set. Jus..."
+She stops for a second.
+"...Rook. Where is he? He wouldn't left without..."
+Suddenly a roar pipes up, much more powerful that the one you were used to...
+
+#0# Continue
+
+||
+
+[0<41380]

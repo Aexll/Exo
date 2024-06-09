@@ -1,0 +1,16 @@
+!53080!As you struggle to make your way to the other side, you suddenly feel the stones
+under your foot give way, falling far below. You quickly grab on the side of the bridge,
+but feel as sharp pain in your shoulder as your right arm has to suddenly support
+all of your body.
+
+With a lot of effort and time, you eventually manage to climb back up to the other side,
+at no small price to your body. You lay there panting for a while, before a noise jolts
+you to attention. Alerted by the weird sounds, you look to the other side of the bridge
+and are appalled by what you find. Dozens of shadowy figures are slowly progressing 
+across the bridge towards you. Panicked, you forget your fatigue and run like hell.
+
+#0# Run like hell
+
+||
+
+[0<53081]

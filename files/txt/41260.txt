@@ -1,0 +1,12 @@
+!41260!Rook  approaches you.
+"I think we can breath now, at least for a moment."
+Unlike Rook, Agria seems however a lot less relieved.
+"Ma'am..."
+Silence. You can feel the ambiant tension.
+"We go. Now."
+
+#0# Continue
+
+||
+
+[0<41261]

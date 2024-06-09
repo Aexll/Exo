@@ -1,0 +1,15 @@
+!10020!You open your eyes only to see fire spreading across the pod. You hastily undo your belt as
+the $rflames/$r start burning the survival kit.
+
+Grabbing the extinguisher you realize that you won't have enough time to save the entire kit, 
+what do you prioritize?
+
+#0# Save the Rifle
+#1# Save the Grappling hook
+#2# Save the Toolkit
+
+||
+[p<2]
+[0<10021]
+[1<10022]
+[2<10023]

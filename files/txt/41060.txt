@@ -1,0 +1,12 @@
+!41060!Silently, you put your hands around the small alien's neck. It is not strong enough to resist.
+You hear the growling getting closer and closer, then finally withdrawing.
+After a few seconds, you head out of the hut, still holding Cut. The poor man seems to be more and more ailing.
+Suddenly you hear quick footsteps coming in your direction. Agria and Rook, holding what seems to be a radio device.
+"We got what we wanted, no we get outta here\!"
+You follow the group, doing you best to keep Cut together.
+
+#0# Continue
+
+||
+
+[0<41061]

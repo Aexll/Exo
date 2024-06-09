@@ -1,0 +1,10 @@
+!20270!It takes you a few minutes to catch up with the beast, its speed and agility gives you a hard time tracking it.
+So much in fact that you sometimes have to rely on footprints to keep trace of where it is going. 
+
+But ultimately, you manage to keep up with it.
+
+#0# Continue
+
+||
+[p<7]
+[0<21010]

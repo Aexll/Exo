@@ -1,0 +1,11 @@
+!30060!After staying perfectly still for a short while, the thing comes out of the shadows.
+You realise that there is nothing to be afraid of,
+this is a little purple ball on two legs with just a mouth and its eye at the bottom.
+
+#0# Wait a little bit longer.
+#1# Continue through the jungle.
+
+||
+
+[0<30110]
+[1<30120]

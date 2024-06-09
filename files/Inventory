@@ -1,0 +1,22 @@
+i0:Rifle
+i1:Grappling hook
+i2:Toolkit
+i3:Fragment
+i4:Creature skin and meat
+i5:Amulet
+i6:Inscribed bark
+i7:Powder
+i8:Spear
+i9:Pot
+i10:Ashes
+i11:Purple fluffy skin and sharp teeth
+i12:Evil eye
+i13:Orange fruits
+i14:Monster pelt 
+
+Ex avec rifle
+
+[i0<1] Pour ajouter l'object
+[i0<0] Pour supprimer l'object
+[i0<+] Pour en ajouter 1
+[i0<-] Pour en retirer 1 

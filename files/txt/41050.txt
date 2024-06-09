@@ -1,0 +1,11 @@
+!41050!A quick shot from the back silences the alien. You quickly run to Cut and check his wound.
+It's deeply open. Between two moans, Cut thanks you.
+"...Thanks civ'...I owe you this one..."
+here is no time however, as you hear the grunts approaching.
+You grab Cut the best you can and start hobble to the nearest cover, a hut.
+
+#0# Continue
+
+||
+
+[0<41051]

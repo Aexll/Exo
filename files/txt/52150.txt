@@ -1,0 +1,15 @@
+!52150!You do your best to patch yourself up in spite of the pain coursing through
+your body. Looking back at the room, you skin the beast for some
+much needed meat, which you eat over an improvised fire.
+Sadly, your rifle did not survive the fight, and you are weary of firing it when
+it has suffered so much damage. Having dried part of the beast's skin,
+you grab the scaled pelt with you as you venture further into the temple.
+
+You will need to find the energy source as soon as possible
+if the growing pain in your arm is any indication.
+
+#0# Continue
+
+||
+
+[0<52151]

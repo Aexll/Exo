@@ -1,0 +1,26 @@
+!25000!While keeping you in sight of her rifle the sergeant raises her head.
+
+"I don't care what's thing is or who these creatures are. If they decide to wear our only way home
+on their skins, then we'll take it off their corpses\! If ya want to get out of this damn planet
+then ya better get over here\!"
+
+#0# Join the soldiers
+#1# Go back in the village and stay with the Rahk'ats
+#2# Draw your rifle and defend the village
+#3# Grab the spear and brace yourself
+
+||
+
+[0<23170]
+[1<25030]
+[2<25020]
+[3<25010]
+
+[v2<0]
+?#i0>0{
+[v2<2]
+}
+[v3<0]
+?#i8>0{
+[v3<2]
+}

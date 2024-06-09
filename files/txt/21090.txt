@@ -1,0 +1,12 @@
+!21090!You wave at the creatures, their eyes and legs freezes as they begin to whisper between them
+in a language that you can't make out. The "word" starts spreading across the village and
+with no real control over this domino effect you find yourself surrounded by guards looking at you with suspicion.
+
+With not much of a choice you follow them. They bring you in front of one of their kind, decorated with ornaments,
+it seems like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

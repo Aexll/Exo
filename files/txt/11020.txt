@@ -1,0 +1,10 @@
+!11020!Once again, you put all of your strength into one decisive strike against technology.
+In spite of your actions, the damned thing won't bend when facing the power of your fist.
+
+#0# Hit the radio again ?
+#1# Scan the area
+
+||
+
+[0<11030]
+[1<10040]

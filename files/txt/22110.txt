@@ -1,0 +1,15 @@
+!22110!The priest start agitating his arms, producing loud and powerful sounds. 
+The more you're watching this strange ritual unfolds the more it looks like a rite of passage with the 
+elder applying this blue powder on the young male by following certain patterns.
+
+You notice across the room a stone pyre upon which lay a dead body accompanied by a broken spear.
+Something clicks in your head, this powder, is in fact the ashes of their fallen warriors
+and judging by your radar this is where the $benergy/$b comes from\!
+
+Which means that the $bpot/$b this priest is holding might be the energy source you were looking for.
+
+#0# Continue
+
+||
+
+[0<23000]

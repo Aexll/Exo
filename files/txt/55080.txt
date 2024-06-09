@@ -1,0 +1,36 @@
+!55080!Right. If you cannot obtain this energy source directly, you should look out for alternative options.
+You look at your busy HUD, trying your best to plan your route out of here. Did you really value
+the native's culture that much ? Or perhaps it was the prospective of alerting your pursuers
+that ended up deterring you ?
+
+Either way, you are certain of it now; you are not breaking down this door. Your only options now are
+to find a way out of here... Oh?
+Unless there is something wrong with your suit, your radar just picked up a very interesting signal...
+
+$r[If you have exactly two EVIL EYE in your inventory, you must pick
+the EVIL EYE \>\[2\]\< option. If you have three or more EVIL EYE
+in your inventory, you must pick the EVIL EYE \>\[3\+\]\< option.]/$r
+
+
+#0# Follow the signal
+#1# EVIL EYE >[2]<
+#2# EVIL EYE >[3+]<
+
+||
+
+[v0<0]
+?#i12<2{
+[v0<1]
+}
+[v1<0]
+?#i12=2{
+[v1<2]
+}
+[v2<0]
+?#i12>2{
+[v2<2]
+}
+
+[0<55130]
+[1<55140]
+[2<55200]

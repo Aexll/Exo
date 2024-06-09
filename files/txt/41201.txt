@@ -1,0 +1,13 @@
+!41201!You don't have time to think about that however, as two Razors enter.
+But suddenly Cut, who seems to have gathered all his strength left, pushes you out of the hut.
+During a split second, you notice the device he's holding in his hand. A grenade.
+Pitch black. You slowly regain cousciousness, only to see fire. There's no more hut. Only fire.
+Still stunned, you aimlessly wander the burning village, searching for an exit you can't see.
+You almost don't noitce the firm hand grabbing your arm. You however recognize the voice accompanying it.
+"The hell y'are doin' civ'? We got what we needed. Now we get our ass outta here\!" 
+
+#0# Continue
+
+||
+
+[0<41210]

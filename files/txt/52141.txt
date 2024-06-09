@@ -1,0 +1,15 @@
+!52141!However, as you open your eyes, you realise that are still in one piece.
+The monster did bite down on your left shoulder, but the lower teeth were
+blocked by the stock of your rifle, saving you from certain death. Looking at
+the interior of the beast's maw, it appears that you pierced a vital organ while
+firing, which killed it instantly.
+
+However, it was not without sacrifice. Your left arm is still here, but it's
+barely hanging in it's socket. The beast's massive fang dug into your
+shoulder and you have nothing to stop the bleeding.
+
+#0# Continue
+
+||
+
+[0<52150]

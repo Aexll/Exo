@@ -1,0 +1,18 @@
+!55170!You close in on the signal, almost getting back to the entrance of the temple. Just as your radar
+tells you that the energy source is located in the next room, you stop dead in your tracks.
+You sneek in a glance and confirm your suspicions; a group of natives are currently holding a ceremony
+inside the temple.
+
+From your position, you can see several "dancers" moving in stranger patterns, as well as a figure of authority,
+heavily clad in wooden trinkets. Your heart skips a beat when the radar locates the energy source; it's right there!
+In the corner of the room lies a stone altar, upon which is placed an unassuming stone Urn. Without your radar,
+you would have never guessed that it held the power to get you back home!
+Now you only need to find a way to get it without alerting the natives...
+
+#0# Hide yourself in the bark at the back of the room
+#1# Climb into the ceiling
+
+||
+
+[0<23040]
+[1<23010]

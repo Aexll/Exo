@@ -1,0 +1,14 @@
+!41075!You rush to hep Cut, as the Razor approaches even closer.
+Using all your strength left, you plunge on the alien, tackling it on the ground.
+Surprised, the beast swings its left arm at you.
+You barely dodge the deadly claws, but the Razor does not  seems to be stopping here.
+Its right arm follows closely the left, with a second blow coming.
+The beast is however stopped in its movement, stopped by a bullet piercing its forehead.
+It collapses on the ground, and you hear a familiar voice.
+"Thanks for the help civ', but I'm not dead yet."
+
+#0# Continue
+
+||
+
+[0<41076]

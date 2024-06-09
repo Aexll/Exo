@@ -1,0 +1,7 @@
+!22003!Deleted $ySpear/$y from the inventory.
+
+#0# Continue
+
+||
+[i8<0]
+[0<22070]

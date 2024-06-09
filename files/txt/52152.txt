@@ -1,0 +1,10 @@
+!52152!Added $yMonster Pelt/$y to your inventory.
+
+#0# Continue
+
+||
+
+[i14<1]
+Add Monster Pelt to the Inventory
+
+[0<55010]

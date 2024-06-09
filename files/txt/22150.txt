@@ -1,0 +1,14 @@
+!22150!This time getting your message across seems almost impossible. Not only is the language barrier
+limiting you,  but what you are asking for doesn't seem to please them. Judging by their reaction
+they do not want to grant your request.
+
+Checking you radar you see that the once closest signal has now disappeared, leaving only
+the stronger one.
+
+#0# Explore the village
+#1# Leave the village and head toward the strongest signal
+
+||
+
+[0<22160]
+[1<50010]

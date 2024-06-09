@@ -1,0 +1,15 @@
+!23190!"And now?"
+
+Sergeant Agria put her rifle on her shoulders.
+
+"Gather the powder. We're going home."
+
+"Ma'am yes ma'am"
+
+You and Rook scrub the powder out of the creatures' corpses while Agria and Cut cover your back.
+
+#0# Continue
+
+||
+
+[0<23191]

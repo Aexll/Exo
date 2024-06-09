@@ -1,0 +1,17 @@
+!40120!You advance In the thick of the night, your jailers watching you from afar.
+Apparently they seem to be followed since they crashed.
+The bearded soldier, apparently named Cut, proposed earlier to use you as a bait.
+Agria, the woman who also appears to be his sergeant, glaldy allowed that.
+As you progress through the vegetation, you start to feel the same as when you had the sensation to be observed.
+Could this presence and the standed soldiers' observer be one and the same?
+You notice a movement, subtle and hardly noticeable, coming from a nearby tree top.
+
+#0# Take a look at Agria
+#1# Stay in place
+
+||
+
+[0<40150]
+[1<40130]
+
+[p<19]

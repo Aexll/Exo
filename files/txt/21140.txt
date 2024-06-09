@@ -1,0 +1,18 @@
+!21140!After a moment the wooden door opens in a cracking noise, coming out of it are the faces
+of two humanoids covered in brown scales they are about 2 meters\!
+And they seem as surprised as you are\!
+
+#0# Greet them
+#1# Wait for them to react
+#2# Threaten them with your rifle
+
+||
+
+[0<21190]
+[1<21180]
+[2<21150]
+
+[v2<0]
+?#i0>0{
+[v2<2]
+}

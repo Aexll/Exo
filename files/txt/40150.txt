@@ -1,0 +1,13 @@
+!40150!You take a look at the soldier's leader, hoping for a little backup.
+Agria indicate you with visible annoyance to step further to the tree. 
+You definitely have put yourself in quite a pickle.
+You take a step. You can feel yourself sweating. Suddenly, you hear a scream. A creature jumps from the tree.
+It exceeds the average human height, despite being slightly crooked on itself. Its long arms holds two sharp claws. 
+What really strikes you is its face, seemingly enraged and savage.
+
+
+#0# Continue
+
+||
+
+[0<40151]

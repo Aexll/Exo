@@ -1,0 +1,7 @@
+!23191!Added $yAshes/$y to your inventory.
+
+#0# Continue
+
+||
+[i10<1]
+[0<23200]

@@ -1,0 +1,11 @@
+!21080!You turn back only to run into what appears to be the guards.
+They block your only escape path and their spears do not seem kind on letting you leave their sight.
+
+With not much of a choice you follow them. They bring you in front of one of their kind,
+decorated with ornaments, it seems like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

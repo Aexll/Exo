@@ -1,0 +1,15 @@
+!41482!The axe might be your only chance, but the you can barely reach it.
+Meanwhile the Razor is opening its mouth, revealing sharp teeth, with a serpentine-like tongue dancing along its jaw.
+You almost have the axe in hand...
+You grab the weapon, and with all your strength left you press it against the alien's neck.
+The beast lets out a scream, mix of surprise and pain.
+It drops you, but using your own weight you tackle it on the ground, continuously pressing the axe.
+Blue blood starts to gather around you two, as the Razor let fear dominates in place of anger.
+After a few seconds, you remove the axe off the creature's neck and smash in on its forehead.
+Silence finally falls.
+
+#0# Continue
+
+||
+
+[0<41490]

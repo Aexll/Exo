@@ -1,0 +1,52 @@
+!22000!Everyone converge on you out of curiosity, to such an extent that a large crowd start forming
+around you and the village chief.
+
+Now that you can take a closer look at them you realize these scaly creatures don't have eyelids
+nor lips. Their teeths are upturned and you notice thin fur on their forearms.
+Their hands ends up in two separeted fingers on which sit long claws that looks like razors.
+Finally, you can see that the males are the only ones wearing blue trails on their scales.
+ 
+On your own forearm, the signal on your radar is getting stronger as the crowd gets larger.
+
+#0# Greet the chief
+#1# Offer the inscripted bark
+#2# Show the piece(s) of monolith
+#3# Offer the spear you collected on the corpse
+#4# Offer the amulet you found
+#5# Offer the skin of the scaly creature you hunted
+#6# Draw your rifle and shoot at the creature
+
+||
+[p<10]
+[0<22120]
+[1<22005]
+[2<22004]
+[3<22003]
+[4<22002]
+[5<22001]
+[6<22010]
+
+[v1<0]
+?#i6>0{
+[v1<2]
+}
+[v2<0]
+?#i3>0{
+[v2<2]
+}
+[v3<0]
+?#i8>0{
+[v3<2]
+}
+[v4<0]
+?#i5>0{
+[v4<2]
+}
+[v5<0]
+?#i4>0{
+[v5<2]
+}
+[v6<0]
+?#i0>0{
+[v6<2]
+}

@@ -1,0 +1,16 @@
+!23060!You try to get the attention of the priest. Making multiple gestures, you ask them for the pot.
+
+However, they vehemently refuse to give it to you.
+
+#0# Give up. Clearly, they won't be convinced that easily
+#1# Draw your rifle and take it with you
+
+|| 
+
+[0<23080]
+[1<23070]
+
+[v1<0]
+?#i0>0{
+[v1<2]
+}

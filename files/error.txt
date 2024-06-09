@@ -1,0 +1,12 @@
+$r$uERROR unvalid text file/$u/$r
+
+the index given is unvalid (not found)
+
+look for $y[0\<1234]/$y in your code
+          $r  ^^^^^ unvalid file index/$r
+
+
+#0# Return to 0
+
+||
+[0<0]

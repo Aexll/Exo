@@ -1,0 +1,14 @@
+!22160!You take a walk around the settlement while being monitored by two armed guards.
+Here you find sights that could very well be pictures in a history book. 
+Improvised tailors making fur clothes, next them hunters equipped with traps for small game
+and weapons for larger preys.
+
+On the outside you stumble upon crops. You surprise yourself by walking along the fields on several
+hundred meters away from the village, witnessing the onset of an agricultural revolution.
+To the point where the guards make a gesture at you, asking you to follow them back to the enclosure.
+
+#0# Continue
+
+||
+
+[0<23100]

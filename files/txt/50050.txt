@@ -1,0 +1,16 @@
+!50060!While making your way toward the stones, you can't shake the feeling
+that something is wrong with your original analysis. As the stones
+come into view, you realise that what you dismissed as mere
+blocks of stone are in fact intricately carved stone pillars .
+You count twelve of them, which seem to mark the sides of the road.
+
+As you trace the carvings with your finger, you suddenly feel
+a shiver down your spine. Something here feels wrong. As the sun
+shines low above your head and sigils dance in your eyes, you give up
+trying to make sense of the markings and continue down the road.
+
+#0# Continue
+
+||
+
+[0<50051]

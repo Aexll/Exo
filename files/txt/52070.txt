@@ -1,0 +1,15 @@
+!52070!You examine the bones on the floor.
+After a few moments, you notice that while some of them slightly ressemble
+human bones, they most likely belong to one of the planet's native species.
+Most of them are far too big and heavy to even pass as human.
+
+As you try to test the weight of one of the bigger ones, you accidentally
+drop it on the floor. The temperature seemingly drops hard as the noise
+echoes all around you. If the temple hadn't taken notice of you before,
+it certainly does now.
+
+#0# Oops ?
+
+|| 
+
+[0<52071]

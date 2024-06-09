@@ -1,0 +1,10 @@
+!40020!The relief quickly fades however, as you start to feel...strange. Insecure.
+Like if someone...no, something, was watching you.
+You don't know where to look exactly, because you don't know what to look at.
+You decide to fasten your stride as you keep following the signal.
+
+#0# Continue
+
+||
+
+[0<40030]

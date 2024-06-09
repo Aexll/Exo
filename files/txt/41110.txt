@@ -1,0 +1,11 @@
+!41110!If there's something those aliens can't dodge, it's an explosion.
+You aim, you take your time, waiting for an alien to get closer. And you shoot.
+One of the aliens is taken right in the fiery blast. Another, deeply burned, falls on the ground, screeching in pain.
+The only one standing is the leader, clad in metal. But where is he?
+Behind you. It jumps out of nowhere on Agria, tackling her on the ground.
+
+#0# Continue
+
+||
+
+[0<41120]

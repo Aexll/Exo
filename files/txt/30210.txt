@@ -1,0 +1,11 @@
+!30210!You pass not far from the ship and you notice that the owners have
+left their toolkit outside. If you do not have one, you can take this one.
+
+#0# Resume your journey.
+
+||
+
+[0<30211]
+
+?#i2>0{
+[0<30350]}

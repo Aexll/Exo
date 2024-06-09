@@ -1,0 +1,14 @@
+!41000!The sun rises. You and your newfound friends have walked all night, following the vibrations of the mysterious stone.
+You're tired, and you can feel your allies are as well. Cut reaches to Agria.
+"Ma'am, we haven't slept since we crashed. Maybe we could..."
+The sergeant turns around.
+"We haven't slept and we won't sleep until we're in a rescue ship!
+This place's hell Blue, sleepin' here mean dyin' here, and I'm not lettin' any of ya die here!"
+
+#0# Continue
+
+||
+
+[0<41001]
+
+[p<20]

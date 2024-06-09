@@ -1,0 +1,14 @@
+!52130!You throw all caution to the wind and run like you've never ran before.
+The monster roars behind you and starts hot on your heels.
+Relying solely on your survival instinct, you keep running, running,
+and running until you fall exhausted on the dusty rock floor.
+Catching your breath, you make a few realisations. First you notice that
+you have escaped the monster. Second, that the signal is really close.
+Third, you can't really feel your legs anymore. And finally, that
+you are now completely lost.
+
+#0# Lose yourself in the network of tunnels
+
+||
+
+[0<55010]

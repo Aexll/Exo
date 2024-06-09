@@ -1,0 +1,10 @@
+!11010!You try to hit the radio. Who knows, it may just work.
+At least that's what you were hoping for, but the module stays silent.
+
+#0# Hit the radio again
+#1# Scan the area
+
+||
+
+[0<11020]
+[1<10040]

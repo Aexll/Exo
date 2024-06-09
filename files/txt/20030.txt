@@ -1,0 +1,12 @@
+!20030!You keep moving forward, to the point where your legs' efforts bring you close to large body of water.
+Looking at it you realize that vapor is coming out of it, it's a thermal spring\!
+The heat emanating reminds you the quick briefing that popped on your ship's instrument panel before being shot down.
+This is Uruk-7, a arid planet covered in giant oasis thanks to its internal volcanic activity.
+
+#0# Refuel yourself, have a drink
+#1# Keep going toward the signal
+
+||
+[p<22]
+[0<20090]
+[1<20040]

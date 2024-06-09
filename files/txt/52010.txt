@@ -1,0 +1,21 @@
+!52010!As you enter one of the rooms, you notice that everywhere here
+is absolutely covered in glyphs and symbols.
+
+Out of the large number of random inscriptions, you quickly notice 
+a handful of carvings that draw your attention.
+One of the biggest ones in the room looks like a gigantic flame, 
+surrounded by shadowy figures. On the opposite wall, a conflict 
+between two figures seems to tell an old legend. Finally,
+on the right side, a strange monster covered in horns rises
+while a group of humanoids armed with lances and claws
+are attacking it. Several lie on the ground, possibly dead.
+
+#0# Examine the carvings with the flame
+#1# Examine the carving with the two figures
+#2# Examine the carving with the giant monster
+
+||
+
+[0<52020]
+[1<52040]
+[2<52030]

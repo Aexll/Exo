@@ -1,0 +1,8 @@
+!30301!Deleted $yPurple fluffy skin and sharp teeth/$y from the inventory.
+
+#0# Continue.
+
+||
+
+[0<30330]
+[i11<0]

@@ -1,0 +1,18 @@
+!20240!After fifteen long minutes of constant search here it is\!
+Settle against a tree a second monolith stands before you, this time embellished with some color.
+It's a big two legged figure covered in blue trails from top to bottom.
+
+These trails seem to take their origin in a flame, similar to the one you saw earlier.
+
+#0# Resume your journey
+#1# Take a second fragment
+
+||
+
+[0<21010]
+[1<20250]
+
+[v1<0]
+?#i2>0{
+[v1<2]
+}

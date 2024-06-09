@@ -1,0 +1,10 @@
+!11040!Collecting the knowledge passed down by your ancestors you decide on a new strategy to beat
+this formidable foe. You hit it once again, but this time you use both of your fists at once\!
+Your show of immeasurable force manages to trigger a fuzzy sound from your defeated and vile enemy.
+The radio is working\! You celebrate your well earned victory with pride and war cries before sending
+a $gdistress signal/$g.
+
+#0# Continue
+
+||
+[0<11041]

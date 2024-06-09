@@ -1,0 +1,10 @@
+!41081!You take a moment to realize what's.happening around you. You see Rook facing the Big One alone.
+He seems to be in trouble, as the said Big one just disarmed him, leaving vulnerable to the beast's axe.
+You aim your weapon and take a shot, but the projectile bounces on the alien's pauldron.
+At least it noticed you, leaving Rook alone.
+
+#0# Continue
+
+||
+
+[0<41082]

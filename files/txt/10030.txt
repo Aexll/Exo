@@ -1,0 +1,12 @@
+!10030!Your efforts as an improvised fireman seem to have paid off.
+As the flames fade away, you check the radio module to $gsend an S.O.S/$g but nothing happens.
+The device seems mostly untouched, but unfortunately it's not the case for the batteries,
+they are badly damaged and enable to provide power. To fix the module you'll need
+a new $benergy source/$b...
+
+#0# Hit the radio
+#1# Scan the area
+
+||
+[0<11010]
+[1<10040]

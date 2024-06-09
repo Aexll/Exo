@@ -1,0 +1,10 @@
+!51021!A nauseating sensation spreads throughout your body...
+
+#0# Continue
+
+||
+
+[i12+1]
+Add Evil Eye to the inventory
+
+[0<51030]

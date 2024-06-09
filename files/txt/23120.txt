@@ -1,0 +1,12 @@
+!23120!You draw your rifle and start assisting the Rahk'at with suppressing fire.
+
+As the battle unfolds, you see them surrounding the attackers in all directions. They don't
+have time to react before being slashed down. The shootout cease.
+
+Walking towards their positions you find three human corpses lying dead.
+
+#0# Continue
+
+||
+
+[0<25040]

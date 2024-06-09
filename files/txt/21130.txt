@@ -1,0 +1,12 @@
+!21130!You first think about hiding, but there is not much of a hideout where you're standing.
+Running out of option, you come face to face with one of the individuals.
+
+2 meters high, decorated with ornaments, brown scales streaked with blue lines made up of
+a sort of powder. It seems surprised to see you, but far from panicking it leads you to the
+entrance inviting you to follow it. Intrigued, you do so.
+
+#0# Continue
+
+||
+
+[0<22000]

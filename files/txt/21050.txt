@@ -1,0 +1,11 @@
+!21050!The creature keeps you at bay with its claws and without time to react what appears to be the guards come in.
+Armed with spears, they're showing you the way out.
+  
+With not much of a choice you follow them. They bring you in front of one of their kind, decorated with ornaments,
+it seems like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

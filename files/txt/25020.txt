@@ -1,0 +1,11 @@
+!25020!While being pinned down by the soldiers' projectiles you replicate in their general direction,
+assisting the defenders with suppressing fire. As you try your best to stay in cover you witness the Rahk'ats
+surrounding them in all directions.
+
+They can't react fast enough and are taken down behind the vegetation.
+
+#0# Continue
+
+||
+
+[0<25040]

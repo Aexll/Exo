@@ -1,0 +1,17 @@
+!52050!As you continue heading deeper inside the temple, you end up
+facing a weird choice as you round out a stone corridor.
+Right now, you face two corridors in the darkness, both heading
+in completely different directions.
+
+From your small source of light, you can only gather a little bit of
+information before you make your choice: the corridor on the left
+seems to continue into a flight of stairs heading up, while the
+corridor on the right seems to have been abandoned for a while.
+
+#0# Enter the corridor that ends in a flight of stairs
+#1# Enter the corridor that is slightly damaged
+
+||
+
+[0<51070]
+[1<52060]

@@ -1,0 +1,10 @@
+!30030!To travel under the sun for a huge distance might be a bad idea,
+the other signals must be safer in comparison.
+
+#0# Follow the widest signal.
+#1# Follow the nearest signal.
+
+||
+
+[0<20010]
+[1<40010]

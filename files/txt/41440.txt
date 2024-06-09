@@ -1,0 +1,14 @@
+!41440!The Razor grabs you and lift you above the ground. You can clearly see the anger in its eyes.
+Moreover, it is...opening its mouth. A forked tongue suddenly pokes out of the beast's jaw.
+You notice an small, burning piece of wood, crumbling from the hut.
+You grab it and with a firm gesture, stick it in the creature's lower jaw.
+The Razor lets out a dee, painful scream, dropping you in the process. But you're nowhere near done with it.
+Using your own weight, you tackle the beast on the ground, and stick the wood deeper in its mouth.
+The deep scream progressively turns into panicked screeches, as the alien shakes its arms in all directions. 
+After long, painful seconds, it finally silences. Permanently.
+
+#0# Continue
+
+||
+
+[0<41490]

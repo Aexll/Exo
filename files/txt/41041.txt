@@ -1,0 +1,18 @@
+!41041!You suddenly see Cut, apparently in running from cover to cover.
+"Take cover civ', they're on the roofs\!"
+As he finishes his sentence, he blasts a Razor aotp of a hut behind you.
+But another suddenly jumps on him. You see its brutish claws slashing Cut's side. He screams in pain.
+However you hear growling coming in your direction.
+
+#0# Leave
+#1# Shoot the Alien
+
+||
+
+[0<41042]
+[1<41050]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

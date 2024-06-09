@@ -1,0 +1,17 @@
+!20160!Between two giants leaves you catch sight of a little humanoid, covered in brown scales.
+It is standing right in front of you, right in the open and it doesn't seem to have noticed you.
+
+#0# Come into the open
+#1# Silently follow the creature
+#2# Aim and shoot at the creature
+
+||
+
+[0<20260]
+[1<20210]
+[2<20170]
+
+[v2<0]
+?#i0>0{
+[v2<2]
+}

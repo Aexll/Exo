@@ -1,0 +1,11 @@
+!30350!You pass by the ship and as you're heading to the source's location, you feel that
+something is weird because the radar detect a weak, very weak signal
+along where you are, so you ignore it. Under this harsh sun, each step feel heavy but the jungle
+where you are headed to is very close now. As you finally reach it however,
+you realize that your trip is far from finished.
+
+#0# Walk up the path.
+
+||
+
+[0<50010]

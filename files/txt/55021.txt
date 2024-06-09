@@ -1,0 +1,10 @@
+!55021!The freezing sensation moving through your veins stings as you walk toward the door.
+
+#0# Continue
+
+||
+
+[i12+1]
+Add Evil Eye to the inventory
+
+[0<55050]

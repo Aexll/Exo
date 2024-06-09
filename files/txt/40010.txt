@@ -1,0 +1,11 @@
+!40010!You decide to follow the closest signal; better not to go too far from the pod.
+As you progress through the thick of the green, you take a moment to watch the said green.
+You're surrounded by a luxurious jungle, with what seems to be a tropical climate.
+After a brief moment of doubt, you decide to take off the helmet.
+The air is breathable. Maybe this planet isn't so bad after all...
+
+#0# Continue
+
+||
+[p<7]
+[0<40020]

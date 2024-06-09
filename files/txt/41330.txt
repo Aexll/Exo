@@ -1,0 +1,10 @@
+!41330!You grope around the command post, searching for whatever tool you could use in order to cut out the radio.
+But all you can find is dirt and rocks. Nothing useful.
+You finally stumble across a sharp metal fragment. It's not the sharpest tool in the shed, but it'll have to do.
+Slowly, painfully, you extract the device from the command board.
+
+#0# Continue
+
+||
+
+[0<41331]

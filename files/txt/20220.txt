@@ -1,0 +1,17 @@
+!20220!As you observe the sculted stone and quickly uncover a ring of two legged figures forming a circle
+around what looks like a flame, on which is another two legged figure.
+ 
+#0# Look for traces of the creature
+#1# Look around to try and find other monoliths
+#2# Use the toolkit to collect a piece of the monolith
+ 
+||
+ 
+[0<20270]
+[1<20240]
+[2<20230]
+ 
+[v2<0]
+?#i2>0{
+[v2<2]
+}

@@ -1,0 +1,11 @@
+!22120!The chief point its claws at itself and produces a sound that you can distinguish as "Rahk'at".
+
+Perhaps this is the name of these people.
+
+#0# Ask him about the blue trails
+#1# Introduce yourself
+
+||
+
+[0<22140]
+[1<22130]

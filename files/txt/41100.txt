@@ -1,0 +1,9 @@
+!41100!Considering their speed, it might be beneficial to take cover. You show a cover point to Agria.
+She quickly gestures a plan to Rook, and start raining bullets on the Razors. Meanwhile, you move Cut to a safe point.
+The Razors are quick to react however, as they begin separating themselves to circle you and and the group.
+
+#0# Continue
+
+||
+
+[0<41101]

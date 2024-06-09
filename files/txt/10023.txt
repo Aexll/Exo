@@ -1,0 +1,8 @@
+!10023!Added $yToolkit/$y to your inventory.
+
+#0# Continue
+
+||
+
+[0<10030]
+[i2<1]

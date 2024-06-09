@@ -1,0 +1,14 @@
+!41480!Taking advantage of the Razor's disability, you quickly step on you right and land a second stab on its arm.
+With a rageous grunt, it tries to hit you, but is immediatly stuck by the pain coming from you first blow.
+As you reaches its back, you land a third hit between the beast's arm and neck, making it drop its axe.
+Drunk with confidence, you try to hit it a thrid time...only to be struck by a deadly blow.
+The Razor hit you with its right arm, with enough strength to violently nail you to the ground.
+As he bend over you, you take full notice of its expression, on of a beast, giving it all to survive.
+
+#0# Burst the Alien's eye
+#1# Grab the axe
+
+||
+
+[0<41481]
+[1<41482]

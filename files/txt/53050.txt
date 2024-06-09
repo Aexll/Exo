@@ -1,0 +1,18 @@
+!53050!Trying your best to keep the pace, you continue going forward into a tunnel section
+until the view clears again. You are slightly surprised as natural light floods your
+vision, raising the hope that you are at the end of your troubles.
+
+Sadly, the sound of a raging torrent breaks your daydreaming session. You now face
+a massive stone bridge broken halfway in the middle which hangs over a furious river.
+
+As you look around, you notice that you have come out of a building sculpted directly
+in the rock. Perhaps there is a way up hidden somewhere in the ruins around you ?
+Either way, it seems like you will need physical strength to move forward.
+
+#0# Head toward the bridge
+#1# Look around and try to find a way to climb back up
+
+||
+
+[0<53070]
+[1<53060]

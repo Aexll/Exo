@@ -1,0 +1,15 @@
+!22050!Using all of the courage that you can muster, you strike one of the two guards behind you
+and make a run for it. While the smaller creatures move out of your way, you barely pay attention
+to the various cries and shouts behind you. The only thing that is left on your mind is to run,
+run and run as far from here as you possibly can\!
+
+With ragged breath, you use all of your stamina and make it to the jungle, not even bothering to remember the
+path that you are taking. You only start to slow down when you are certain that no one is behind you.
+
+The once closest signal has now disappeared, leaving only the stronger one to seek.
+
+#0# Continue
+
+|| 
+
+[0<22051]

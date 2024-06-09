@@ -1,0 +1,14 @@
+!50010!As you make your way throught the jungle, the path under your feet start climbing up and up.
+With ragged breath, you mark a pause in your travel to gather your forces.
+As you sit on a tree root, you notice that the path that you were on seems to have been travelled
+by multiple people. Weird footprints mark the dirt, with some even larger than your own\!
+
+Taken aback by this realisation but determined nonetheless, you keep following this road
+in the direction of the signal, now stronger than ever.
+
+#0# Continue
+
+||
+
+[p<8]
+[0<50020]

@@ -1,0 +1,13 @@
+!41121!"Hey, don't go saying things on me civ', we're even now."
+She quickly checks on the troops.
+Boys, we need to get outta here, we got our ticket. Cut, ya' good?"
+The bearded solider painfully lifts his arm.
+"Couldn't go better...ouch."
+"Fine, then we move\!"
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41090]

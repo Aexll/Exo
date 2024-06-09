@@ -1,0 +1,13 @@
+!52020!You are unsure if the flame depicted on the wall is a concrete thing or 
+if it's more of a metaphor for whoever carved it. That being said, it is clear
+that it was very important. The shadowy figures that surround it (people?)
+are locked in a perpetual dance around the flame. It seems as if the young
+are born from the inferno, while the old serve as combustible for the new generation.
+You briefly ponder the societal implications of that kind of system before heading
+further inside the temple.
+
+#0# Continue
+
+||
+
+[0<52050]

@@ -1,0 +1,22 @@
+!30020!The road is long, the journey is exhausting but you end up noticing the entrance of a second forest.
+This is not where the source of the signal is located. You are exhausted, a little rest won't hurt you.
+You take a sit and after a few moment, you hear a strange noise near you. You quickly turn around
+and see an enormous beast with yellow eyes in the back of its big open mouth.
+
+#0# Keep absolutely still. Maybe its vision is based on movement?
+#1# You get your weapon and shoot in its mouth.
+#2# Quick! Your grappling hook!
+
+||
+
+[0<30060]
+[1<30050]
+[2<30070]
+
+[v1<0]
+?#i0>0{
+[v1<2]}
+
+[v2<0]
+?#i1>0{
+[v2<2]}

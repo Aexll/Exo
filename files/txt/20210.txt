@@ -1,0 +1,10 @@
+!20210!While you try to follow it without making any noises you stumble upon a weirdly shaped monolith
+covered in intriguing symbols.
+
+#0# Keep following the creature
+#1# Stop and try to analyse the strange runes
+
+||
+[p<15]
+[0<20270]
+[1<20220]

@@ -1,0 +1,26 @@
+!41101!
+The bullets keep spinning in every direction, but the aliens keep evading them.
+You're in a dead end, and you'd better find a way out.
+You take a look at your surrounding and notice an odd-looking device.
+One of the explosives devices, visibly untouched. The detonator must have been damaged.
+
+#0# [----<>----]
+#1# Shoot the device
+#2# Grapple the device
+
+||
+
+[0<41101]
+[1<41110]
+[2<41130]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}
+
+
+[v2<0]
+?#i1=1{
+[v2<2]
+}

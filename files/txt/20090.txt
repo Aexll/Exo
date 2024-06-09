@@ -1,0 +1,13 @@
+!20090!Not as refreshing as a cold water bottle but, at least it warms your throat. You take this opportunity
+to take a break for a few minutes and catch your breath.
+
+While following the tree line with your eyes you notice a big hole in the foliage, your gaze also stumbles
+upon a trunk in the distance with a mark on it.
+
+#0# Investigate the hole in the foliage
+#1# Take a closer look at the strange trunk
+
+||
+
+[0<20130]
+[1<20100]

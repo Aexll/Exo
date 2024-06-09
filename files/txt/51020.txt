@@ -1,0 +1,17 @@
+!51020!As you move around the room, you end up stepping on a strange stone tile
+which triggers a hidden mechanism. Before you can even remove your foot
+from the pressure plate, you feel a sharp sting in your right leg.
+The pain troubles your vision as your HUD is covered in warning signs
+and you drop to the floor. It takes you a while to adjust, but the pain
+ends up fading away after some time. As you read the alert messages, you learn
+that your suit could not analyze what you have just been injected with.
+Great.
+
+With a grunt, you rise up to your feet and look around the room once more,
+trying to ignore the stinging sensation in your leg.
+
+#0# Continue
+
+||
+
+[0<51021]

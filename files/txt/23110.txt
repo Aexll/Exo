@@ -1,0 +1,15 @@
+!23110!You start running, trying to keep up with them, but once in the enclosure you're pinned down by incoming fire.
+You rush to find cover, evading projectiles until you finally reach something that can withstand the blasts.
+
+#0# Show your hands
+#1# Return fire immediately
+
+||
+
+[0<23140]
+[1<23120]
+
+[v1<0]
+?#i0>0{
+[v1<2]
+}

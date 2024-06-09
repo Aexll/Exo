@@ -1,0 +1,10 @@
+!40211!The stranded soldiers start blasting the beast with deadly bullets.
+The creature is fast however and dodges one shot after another.
+
+#0# Help the Creature
+#1# Distract the Creature
+
+||
+
+[0<40230]
+[1<40220]

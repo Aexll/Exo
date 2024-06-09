@@ -1,0 +1,11 @@
+!23100!As you arrive at the outskirts of the village you hear gunshots in the distance.
+The crowd becomes agitated as most of the males set off in the village to meet what sounds
+like a threat. 
+
+#0# Move around the barrier
+#1# Follow the warriors through the barrier
+
+||
+[p<10]
+[0<23150]
+[1<23110]

@@ -1,0 +1,13 @@
+!23010!You check left and right, making sure nobody can see you and choose the perfect window to activate your grappling hook.
+You're pulled upwards into the perfect hideout. Now out of reach, you hear below the Rahk'at panicking,
+and judging by the sound of their footsteps they're trying to organize search parties.
+
+You grit your teeth, bracing for a stressful moment, but the footsteps soon fade away.
+
+#0# Come down, take the pot and get out of here
+#1# Wait for an opportunity
+
+||
+
+[0<23050]
+[1<23020]

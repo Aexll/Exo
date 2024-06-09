@@ -1,0 +1,13 @@
+!41310!As you keep running across the burning settlement, Rook explains you the current plan.
+"It seems the Razors have built their home around a shipwreck. 
+We picked up a working signal earlier, which means the radio might still be working.
+Our job is to get that radio while the Sergeant and Cut wreck havoc on the village."
+He stops for a moment, checking the sides, then continues:
+"It should be around here. Hang on...this way\!"
+You follow the soldier behind a hut.
+
+#0# Continue
+
+||
+
+[0<41320]

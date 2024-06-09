@@ -1,0 +1,13 @@
+!40030!You eventually stumble upon a glade, in the middle of the jungle.
+The sun piercing through the canopee reveals the colours of the vegetation.
+You suddenly notice a dead creature on in the middle of the glade.
+You've never seen such an animal covered in moss and with no apparent head.
+You're quite hungry, but a dead crearue in the middle of nowhere seems...odd.
+
+#0# Slowly back away
+#1# Approach the creature
+
+||
+
+[0<40300]
+[1<40040]

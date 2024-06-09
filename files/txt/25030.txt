@@ -1,0 +1,14 @@
+!25030!You go back into the relative safety of the barrier. A few seconds later the firefight starts again.
+
+Not able to help that much, you stay behind cover, only able to witness the battle unfolds,
+and it is a bloodbath. The dead start to cover the village's alleys while projectiles are
+ceaselessly fired in every direction.
+
+In the end, the Rahk'at manage to overwhelm the soldiers with their number and take them down
+behind the vegetation.
+
+#0# Continue
+
+||
+
+[0<25040]

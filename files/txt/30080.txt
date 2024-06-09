@@ -1,0 +1,14 @@
+!30080!You start out on a trail, with no idea of the temperature, the intensity of the heat crushes you with
+all its might. After a few minutes, your steps start to feel heavier and after a few seconds, the sands
+engulfs your legs. Without stress or hesitation you stop moving and let it go, as the suction suddenly stops.
+You notice a shiny metallic reflection in the sand, which you identify as a trap.
+It seems to have stopped working, but this is definitely the thing that set off that quicksand. As you look
+up, you notice that you're not far from the pod that seems to have crashed recently.
+
+#0# Enter the spaceship.
+#1# Leave the pod here and resume your trip to the signal.
+
+||
+
+[0<30200]
+[1<30210]

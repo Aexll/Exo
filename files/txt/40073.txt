@@ -1,0 +1,16 @@
+!40073!A tall, frightening creature. It exceeds the average human height, despite being slightly crooked on himself.
+Its long arms holds two sharp claws. What really strikes you is it face, seemingly enraged and savage.
+It then starts to crawl up to the Greatwood. Cut rushes to the tree.
+
+#0# Follow Cut
+#1# Shoot the creature
+
+||
+
+[0<40075]
+[1<40074]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

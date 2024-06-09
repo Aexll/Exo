@@ -1,0 +1,9 @@
+!41362!Deleted $yRifle/$y from the inventory.
+
+#0# Continue
+
+||
+
+[0<41370]
+
+[i0<0] Pour supprimer l'object

@@ -1,0 +1,19 @@
+!40050!They're definitely human, and you even recognize their uniforms: soldiers, of the Grand Federation\!
+They're in a pretty bad shape however. It wouldn't be surprising if they had crashed like you did.
+As you try to put your thoughts together, one the soldiers apporach you. A woman, wit scars all across the face.
+
+"What' ya doin' here exactly?"
+
+#0# Explain your situation
+#1# Cut the rope
+
+||
+
+[0<40060]
+[1<40100]
+
+[v1<0]
+?#i2=1{
+[v1<2]
+}
+

@@ -1,0 +1,13 @@
+!41510!Three Razors are standing at the village's entrance. One of them is holding some kind of crocodile-like creature...
+They might have been hunting while you and you friends were assaulting the village.
+One of them clearly stand out. It's way taller than the usual aliens. Its body is covered in scars and warpaints.
+Instead of the usual vine-made belts, it is wearing some kind of pauldron, made of...metal?
+Salvaged for sure, considering its shape.
+After a few seconds, the Razor lifts its weapon, a metal axe-like blade, and shriek a war cry.
+The other Razors draw their weapons, and start approaching you.
+
+#0# Continue
+
+||
+
+[0<41520]

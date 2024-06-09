@@ -1,0 +1,17 @@
+!20100!The closer you get, the more you can make out what this mark is. Once down the tree there
+is no more room for uncertainty, it's a symbol inscribed on the bark, looking like a flame.
+
+When you look around there seems to be a another one further.
+
+#0# Try to follow the "bark" trail
+#1# Use your tools to cut off the inscribed part of the bark
+
+||
+
+[0<20120]
+[1<20110]
+
+[v1<0]
+?#i2=1{
+[v1<2]
+}

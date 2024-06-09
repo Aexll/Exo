@@ -1,0 +1,10 @@
+!30360!You run and and pass in front of a massive pile of defecation. You don't even
+bother trying to make sense of what could
+have produced it, hurrying instead toward the signal.
+
+#0# Continue.
+
+||
+[p<13]
+
+[0<50010]

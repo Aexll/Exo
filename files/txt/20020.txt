@@ -1,0 +1,22 @@
+!20020!As you make your way in the vegetation, you keep watching the sky, trying to imagine how the battle
+went after your crash. You are still have a bitter taste in your mouth at the thought that the
+two fleets were battling each other on your a called "safe path" through the sector, one of them
+being from the federation. Now your only hope is that in the aftermath, a vessel will be able to
+hear your $gS.O.S./$g
+
+Your thoughts are interrupted though as you hear something moving in a nearby bush.
+
+#0# Walk away from the sound
+#1# Approach carefully the source of the sound
+#2# Use your grappling hook to take a higher point of view 
+
+||
+
+[0<20030]
+[1<20160]
+[2<20200]
+
+[v2<0]
+?#i1>0{
+[v2<2]
+}

@@ -1,0 +1,13 @@
+!21210!You hold your breath as the two creatures pass right next to you, waiting for the
+opportune moment you sneak your way into the enclosure.
+
+You make a final rush to find cover behind a structure made out of thatch and wood... is that a hut?
+From where you're crouched you can hear footsteps all around you.
+
+#0# Come out of your hideout
+#1# Make your way into the village behind the huts
+
+||
+
+[0<21070]
+[1<21030]

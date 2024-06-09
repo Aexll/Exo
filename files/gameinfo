@@ -1,0 +1,20 @@
+main folder:files
+txt folder:files/txt
+img folder:files/img
+end folder:files/end
+asc folder:files/asc
+-
+items file:files/items
+save file:files/save
+endings file:files/endings
+error file:files/error
+-
+number of questions:10
+question max size:255
+memory size:255
+-
+asc_title:0
+asc_continue:1
+asc_option:2
+asc_endings:3
+asc_error:4

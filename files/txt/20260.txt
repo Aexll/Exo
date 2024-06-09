@@ -1,0 +1,10 @@
+!20260!Hoping to interact with it you approach carefully the creature, trying not to scare it away,
+but it's no use as soon as it notices you it runs away.
+
+#0# Leave it be
+#1# Go after it
+
+||
+
+[0<20030]
+[1<20210]

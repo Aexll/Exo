@@ -1,0 +1,10 @@
+!20070!You pull a nearby vine to form a strap and manage to make a knot in order to put the weapon on your back.
+Not very stylish but it will do.
+
+Once you are done, you keep moving forward.
+
+#0# Continue
+
+||
+
+[0<20071]

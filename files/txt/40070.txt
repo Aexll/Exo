@@ -1,0 +1,11 @@
+!40070!It's almost pitch black. You slowly progress through the jungle, the three soldiers close.
+Thanks to your cooperation, you have gained the trust of your new brothers in arms.
+"Watch ya back, the bastard can be aywhere..."
+
+#0# Continue
+
+||
+
+[0<40071]
+
+[p<19]

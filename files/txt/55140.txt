@@ -1,0 +1,16 @@
+!55140!Wary but hopeful, you start walking in the direction of the signal.
+After about half an hour of walking back through the temple however,
+you end up hearing strange noises. You quickly move behind a crumbled
+stone wall and silently observe what is happening.
+
+To your surprise, a group of bipedal creatures is advancing while discussing
+something in a language that you cannot understand. Too stunned to react,
+you avoid making any noise as the creatures quickly move out of your view.
+You should be more careful around here.
+
+#0# Continue
+
+||
+
+[p<1]
+[0<55170]

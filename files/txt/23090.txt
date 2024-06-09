@@ -1,0 +1,10 @@
+!23090!You keep up with the procession, retracing the same path you used to come.
+On the way back you notice the chief keeping an eye on you as if to gauge your reaction.
+
+You stay in your thoughts muffling the cries and songs they begin to perform.
+
+#0# Continue
+
+||
+
+[0<23100]

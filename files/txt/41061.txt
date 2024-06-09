@@ -1,0 +1,9 @@
+!41061!The progression through the burning settlement gets harder and harder. Cut now has a very hard time keeping up.
+You also feel exhausted. But you must hang on. 
+Suddenly, a roar pipes up, much more powerful that the one you were used to...
+
+#0# Continue
+
+||
+
+[0<41070]

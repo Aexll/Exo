@@ -1,0 +1,15 @@
+!41530!In an instant you are thrown on the ground, Razor crushing you under its weight.
+You can hardy breath, but what really scare you are the sharp claws and axe getting closer to you face.
+
+#0# Kick the Alien in the leg
+#1# Stab the alien with the Toolkit
+
+||
+
+[0<41540]
+[1<41600]
+
+[v1<0]
+?#i2=1{
+[v1<2]
+}

@@ -1,0 +1,13 @@
+!53030!Taking the slow and careful approach turns out to be more dangerous than you anticipated.
+You almost slip out multiple time on the pillar tops, and you are exhausted
+by the time that you reach the end of the road. In a moment of carelessness,
+you almost fall, barely holding onto the rim of the next pillar. You watch
+in horror as the pillar that you were on an instant ago collapses, making
+a huge sounds as the stone breaks apart. You hope that the sound did not
+attract unwarranted attention before reaching the end of the road.
+
+#0# Continue
+
+||
+
+[0<53031]

@@ -1,0 +1,24 @@
+!55011!As you keep advancing through the tunnel, your lights illuminate what lies at the end:
+a massive stone door, covered in engravings of flames and warriors.
+
+However, this corridor is anything but warm. If anything, the temperature has kept on decreasing
+the further you went in the temple. As you wave away another of your display's messages about
+your low body temperature, you realize that pushing forward in your current state might not be
+the best idea.
+
+#0# Push Forward! Your goal is finally within your grasp
+#1# Rest. You need to keep your strength
+#2# Use the monster pelt to keep yourself warm
+
+||
+
+[p<6]
+
+[v2<0]
+?#i14>0{
+[v2<2]
+}
+
+[0<55050]
+[1<55020]
+[2<55030]

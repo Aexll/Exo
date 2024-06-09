@@ -1,0 +1,13 @@
+!55100!As you step into the dusty chamber, to your surprise, your foot does not land on firm stone.
+As you ponder what the weird ashy substance on the ground is, you are relieved when your radar
+confirms that this is the energy source that you were looking for.
+
+The walls of the chamber are lined with strange urns, positively radiating with energy.
+Not wanting to tempt fate, you quickly grab one of the urns and head back out of the room,
+ready to leave the temple as soon as possible.
+
+#0# Run back to the entrance
+
+||
+
+[0<55150]

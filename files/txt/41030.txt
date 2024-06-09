@@ -1,0 +1,13 @@
+!41030!You can't help but feel nervous. You and the soldiers have spent an hour, cautiously observing the Alien settlement.
+Cut put what he had in good use, and crafted three explosive devices.
+That should give you and your friends enough time to retrieve the radio.
+You're crouching in the middle of bushes, South-East of the village.
+From there, you can see Rook, looking stressed as well.
+Agria and Cut are there as well, even if you can't see them. Waiting for the right moment.
+Steady...Steady...
+
+#0# Continue
+
+||
+
+[0<41031]

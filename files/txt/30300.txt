@@ -1,0 +1,9 @@
+!30300!As you start running, you realise that they may be after you because of what you have in your arms.
+
+#0# Throw the skin and teeth on the ground.
+#1# Continue running.
+
+||
+
+[0<30301]
+[1<30340]

@@ -1,0 +1,12 @@
+!40130!You stay in place. Even  if you technically have three soldiers backing you up, you can't help but feeling insecure.
+Where is your ennemy, watching you from above or threatening you from behind?
+You see the soldiers slowly advancing towards the tree. Suddenly, a tall creature jumps from the tree top.
+It exceeds the average human height, despite being slightly crooked on himself. Its long arms holds two sharp claws.
+"TARGET\! LIGHT'HIM UP\!"
+A flow of bullets suddenly flow the air. The beast dodges one, then two...but not three.
+
+#0# Continue
+
+||
+
+[0<40140]

@@ -1,0 +1,8 @@
+!23170!These soldiers might be your only chance to leave this planet.
+You join the fight, resolute to kill the Rahk'ats if necessary.
+
+#0# Continue
+
+||
+
+[0<23180]

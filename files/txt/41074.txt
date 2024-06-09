@@ -1,0 +1,11 @@
+!41074!You take a moment to realize what's.happening around you.
+You see Agria, doing her best to keep the Big One busy to protect Cut.
+You however notice another Razor approaching him.
+
+#0# Help Agria
+#1# Help Cut
+
+||
+
+[0<41085]
+[1<41075]

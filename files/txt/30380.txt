@@ -1,0 +1,16 @@
+!30380!Since your eyes are not enough, you end up using your suit's emergency battery to light up your path.
+
+Looking around, you notice that a few weird symbols have been carved in the rock next to you.
+Following the trail of these strange symbols, you theorize that this strange tunnel was a tunnel
+used by the inhabitants of this planet to move around. After half an hour of walking,
+you arrive at another entrance.
+
+It seems that the cave system has led you directly into a jungle.
+You start walking again with enthusiasm. After all, this couldn't be worse than the cave\!
+
+#0# Enter the jungle.
+
+||
+[p<13]
+
+[0<30381]

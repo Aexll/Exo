@@ -1,0 +1,10 @@
+!10011!When suddenly, in the middle of all this cacophony, you heave a sigh of relief as you can hear
+the parachutes being deployed. This moment of stillness is brief though, as the fabric quickly gives way,
+leaving you in a free fall. The cabin shakes in all directions, you feel a heavy, loud and brutal impact,
+then everything turns black.
+
+#0# Continue
+
+||
+
+[0<10020]

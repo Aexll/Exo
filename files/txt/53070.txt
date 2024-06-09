@@ -1,0 +1,30 @@
+!53070!Now that you are facing the bridge, it quickly becomes clear that it is far less
+damaged than you first thought.
+As long as you are careful enough, crossing the bridge should should be easy...
+
+$r[If you have two or more EVIL EYE in your inventory, you must pick
+the EVIL EYE \>\[2\]\< option. If you have exactly one EVIL EYE
+in your inventory, you must pick the EVIL EYE \>\[1\]\< option]/$r
+
+#0# Cross the bridge
+#1# EVIL EYE >[1]<
+#2# EVIL EYE >[2]<
+
+||
+
+[v0<0]
+?#i12<1{
+[v0<1]
+}
+[v1<0]
+?#i12=1{
+[v1<2]
+}
+[v2<0]
+?#i12>1{
+[v2<2]
+}
+
+[0<53100]
+[1<53090]
+[2<53080]

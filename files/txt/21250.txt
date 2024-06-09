@@ -1,0 +1,12 @@
+!21250!You make your best efforts to mimic an escape pod entering the atmosphere and crashing on the planet.
+The three look at each other, trying to decipher what you're doing with your arms and the sound effects
+coming out of your mouth.
+
+Finally, your two fingers walking on your forearm seem to burst through the language barrier at least for the moment.
+Their eyes widen and judging by their placement they invite you to follow them.
+
+#0# Continue
+
+||
+
+[0<21240]

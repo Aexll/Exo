@@ -1,0 +1,14 @@
+!41590!A the silence falls, you take a moment to examine the battle field. Agria is disposing of the last Razor.
+Meanwhile Cut approaches you.
+"Hell, I served for quite a few years, but this might have been my toughest battle."
+Rook quickly responds.
+"I'd like to see where you fought, after that I'll need vacation."
+Both burst in laugh. Agria stays silent for a moment, then join the collective relief
+"Anyway, pack your things boys. There's nothing left for us here."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41090]

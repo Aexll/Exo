@@ -1,0 +1,12 @@
+!50040!Using the serrated blade of your toolkit, you manage to cut through
+the hard vines and gather a few fruits that seem comestible. Even
+if you're not hungry right now, they're sure to come in handy later\!
+
+Adding the fruits to your backpack, you make your way to the
+stones that you saw earlier.
+
+#0# Continue
+
+||
+
+[0<50041]

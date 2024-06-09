@@ -1,0 +1,9 @@
+!40074!You take your time, slowly aiming at the creature as it climbs on the trunk. You take a deep breath. You shoot.
+The beast falls on the ground, frozen in the rageous expression. Cut backs up to you.
+"Damn, nice shot civ'..."
+
+#0# Continue
+
+||
+
+[0<40090]

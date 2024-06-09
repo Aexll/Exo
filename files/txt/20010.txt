@@ -1,0 +1,9 @@
+!20010!After an hour or so of marching through the dense jungle. You slowly realize how much you clash with
+your surroundings. Everywhere you look, your eyes lays upon a luxurious flora, colorful flowers
+and magnificent trees, all enhanced by the sweet and exotic birdsongs.
+
+#0# Continue
+
+||
+[p<7]
+[0<20020]

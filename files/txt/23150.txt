@@ -1,0 +1,16 @@
+!23150!You skirt around the barrier, log by log, hoping to find the reason of this commotion.
+As on the other side you can hear the fighting going on in the enclosure, you finally manage
+to distinguish something familiar in the middle of all the gunshots.
+Those are human voices\!
+
+"They're coming back. Get that powder and let's get out of here\!"
+
+"I can't sergeant they're too close\!"
+
+#0# Approach them
+#1# Stand up and try to diffuse the situation
+
+||
+
+[0<23160]
+[1<23140]

@@ -1,0 +1,12 @@
+!21190!You try to introduce yourself as best as you can, waving at them and saying your name.
+They tilt their head left and right seemingly trying to decrypt what coming out of your mouth while
+keeping you in check. In the end they show you the entrance, leading you inside.
+
+The two make you croos a vividly village, bringing you to one of their own,
+decorated with ornaments, it looks like you found their leader.
+
+#0# Continue
+
+||
+
+[0<22000]

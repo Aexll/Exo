@@ -1,0 +1,14 @@
+!10010!As you're being tossed left and right, you thank your seatbelt for keeping you held on tight to
+your seat. $rFlames/$r subsume your one and only porthole, darkening your only opening to the outside
+world.
+
+You can't help but wonder if this tiny escape pod will keep itself together through the entrance.
+In this dire moments you still find a few seconds to think about all the goods you had to abandon back
+on your ship, not that it would have survived the crossfire of the battle you just had the misfortune
+of stumbling upon.
+
+#0# Continue
+
+|| 
+
+[0<10011]

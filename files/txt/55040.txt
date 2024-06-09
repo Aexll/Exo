@@ -1,0 +1,14 @@
+!55040!As you lie in the darkness, the pain of your arm eventually dissapears.
+The scales surrounding your body keep you warm, even as the wind blows on your face.
+
+Wait, the wind?
+Your entire body feels extremely heavy, and it takes a lot of effort just to open your eyes.
+And, sure enough, you are staring directly at the night sky. It takes you a while to make
+sense of what is happening, but you eventually realize that you are being carried by
+several natives in a massive procession.
+
+#0# Continue
+
+||
+
+[0<55060]

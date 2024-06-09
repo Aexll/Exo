@@ -1,0 +1,11 @@
+!30310!You avoid the trap and continue on your way. After a pretty long road, you understand
+why the radar indicated something. This wasn't a cave,
+it's a tunnel between the two oasis created by the local wildlife\!
+From here, the signal is steadily growing stronger as you progress.
+
+#0# Let's find this annoying source.
+
+||
+[p<13]
+
+[0<30360]

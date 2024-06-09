@@ -1,0 +1,12 @@
+!40311!Suddenly, something jumps from the tree top to face the soldiers. A tall and frightening creature.
+It exceeds the average human height, despite being slightly crooked on himself. Its long arms holds two sharp claws.
+What really strikes you is it face, seemingly enraged and savage.
+The soldier open fire. While the creature is dodging the bullets rather efficiently, it seems to struggle with it.
+
+#0# Stay hidden
+#1# Help the creature
+
+||
+
+[0<40330]
+[1<40320]

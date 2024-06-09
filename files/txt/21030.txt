@@ -1,0 +1,15 @@
+!21030!You make sure to keep every of your movement discreet while staring at your radar.
+No doubts the energy presence is well and truly all around you but you can't locate exactly where.
+What you do known for sure is that you got into a village inhabited by dozens and dozens of individuals
+walking around and measuring 1 to 2 meters.
+
+With the sun high above keeping a low profile will be hard, if not impossible.
+At the center of it you do notice a giant tree hosting a hut on its own.
+ 
+ #0# Try to infiltrate a nearby hut
+ #1# Go for the center of the village
+ 
+ ||
+ 
+ [0<21060]
+ [1<21040]

@@ -1,0 +1,11 @@
+!41042!After a few seconds, you decide to leave Cut to his demise.
+He was already gravely injured, you couldn't do anything for him.
+As you run across the now burning settlement, you stumble into familiar faces.
+Agria and Rook, transporting some kind of heavy radio device.
+"STOP STRAGGLIN' CIV', WE GOTTA GET OUTTA HERE\!" 
+
+#0# Continue
+
+||
+
+[0<41210]

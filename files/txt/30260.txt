@@ -1,0 +1,12 @@
+!30260!You follow the signal and take the right path. Thanks to your emergency flare you are able
+to easily avoid a trapdoor.
+Perhaps you could find something of use down there, but you likely won't be able to climb back up
+afterwards...
+
+#0# Better to find out quickly where the signal comes from.
+#1# Let's see how this trap looks.
+
+||
+
+[0<30310]
+[1<30320]

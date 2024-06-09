@@ -1,0 +1,9 @@
+!21061!You slowly turn around and comes face to face with one of them.
+A few seconds of astonishment follows, interrupted by a whisper coming from the creature,
+something in a language you can't make out.
+
+#0# Continue
+
+||
+
+[0<21050]

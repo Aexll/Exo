@@ -1,0 +1,8 @@
+!22070!You unknot your improvised strap and hands over the weapon. The chief scours it with his claws
+before passing it to one of kind on his right.
+
+#0# Continue
+
+||
+
+[0<22090]

@@ -1,0 +1,10 @@
+!41331!
+You carefully step out of the wreck...alone. Rook is nowhere to be found.
+You search a bit around the wreck, but your friend simply disappeared.
+As you walk around, you suddenly feel observed just like...when an alien was watching you.
+
+#0# Continue
+
+||
+
+[0<41350]

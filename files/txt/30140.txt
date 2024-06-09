@@ -1,0 +1,12 @@
+!30140!After getting down from your tree,
+you head back to the desert, where you find yourself
+in front of a foreign ship. There does not seem to be other people.
+
+#0# Let's investigate, maybe I could find something interesting.
+#1# This might be a trap, let's avoid it.
+
+||
+[p<14]
+
+[0<30200]
+[1<30210]

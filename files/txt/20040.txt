@@ -1,0 +1,10 @@
+!20040!In the middle of all this wilderness you stumble across a dead corpse.
+Here, settled against a tree, lays a humanoid covered in brown scales.
+
+#0# Approach the corpse and examine it
+#1# Move around the body
+
+||
+[p<7]
+[0<20060]
+[1<20050]

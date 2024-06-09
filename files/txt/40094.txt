@@ -1,0 +1,10 @@
+!40094!As they pack their things, Agria yells at you:
+"What'ya waitin' exactly civ'? Gonna sit here all night?"
+She marks a pause.
+"C'mon, hurry\! I might even start to worry for ya if ya don't move\!"
+
+#0# Continue
+
+||
+
+[0<41000]

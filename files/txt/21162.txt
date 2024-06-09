@@ -1,0 +1,12 @@
+!21162!You hastily cross the foliage while constantly watching your back.
+It's only when you certain no one is following that you start slowing down.
+
+You're safe, but the creatures are now alerted, you can forget about the widest signal.
+The once closest signal has now disappeared, leaving only the stronger one to seek.
+
+#0# Continue
+
+||
+
+[i12+1]
+[0<50010]

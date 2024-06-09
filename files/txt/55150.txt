@@ -1,0 +1,17 @@
+!55150!As you run back to the entrance of the temple, weird noises around you end up making you curious.
+You sneek in a glance and confirm your suspicions; a group of natives are currently holding a ceremony inside the temple.
+
+Taking every precaution possible, you sneak past them by taking advantage of rooms that you previously explored.
+As it turns out, it ends up being fairly easy, as the natives seem to be very preoccupied with their ceremony,
+allowing you to slip by unnoticed.
+
+Urn in hand, you spend almost an entire day climbing back down toward your crash site.
+Exhausted and almost fainting, you pour the contents of the urn into the emergency call station.
+Even when the journey exhausted you this much, you can't help but smile while you wait for a rescue party...
+
+#0# Board the coming rescue ship
+
+||
+
+[p<2]
+[0<55180]

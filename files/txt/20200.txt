@@ -1,0 +1,10 @@
+!20200!Below you is a little humanoid covered in brown scales. It's standing right in the open
+but doesn't seem to have noticed you.
+
+#0# Get down from the tree
+#1# Silently follows the creature by using the trees
+
+||
+
+[0<20260]
+[1<20210]

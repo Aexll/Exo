@@ -1,0 +1,14 @@
+!41600!In situations like this, everything can be a weapon.
+You grab your Toolkit and stick it in the beast's flank.
+It let out a scream and step backwards, giving you enough time to get up and back away.
+The Razor is hurt, but seemingly still has plenty of fight.
+You barely dodge an axe swing, as the alien tries to cope with its pain to finish you off.
+It is holding its wound with its left arm, which seems to hinder its movements.
+
+#0# Kick the Alien in the leg
+#1# Attack it on the left flank
+
+||
+
+[0<41610]
+[1<41620]

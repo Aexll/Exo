@@ -1,0 +1,8 @@
+!41280!You take a moment to realize what is happening around you.
+Rook and Agria are disposing of the last razors. The only thing now breaking the silence is the wood burning.
+
+#0# Continue
+
+||
+
+[0<41260]

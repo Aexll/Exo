@@ -1,0 +1,11 @@
+!23070!You grasp your salvation. Threatening to blow the pot with your rifle, you make it outside
+by using the path you used to enter. With a slow and steady progress you march into the jungle
+until you find a trunk to use as cover.
+
+As soon as the Rakhats cannot track you, you start running as fast as you can.
+
+#0# Continue
+
+|| 
+
+[0<23071]

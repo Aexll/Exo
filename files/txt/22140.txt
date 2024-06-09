@@ -1,0 +1,11 @@
+!22140!You pat your arm and try to reproduce with your hand the pattern that you can see on their scales. 
+The chief appears to understand your question, he begins to execute grand gestures and powerful sounds.
+
+You in turn try to discern what he is trying to tell you. Flames? Fire? You are unsure but what he
+seems to describe could be funeral rituals, which would mean that the powder is, well, ashes.
+
+#0# Ask him to give you the ashes
+
+||
+
+[0<22150]

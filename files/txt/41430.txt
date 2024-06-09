@@ -1,0 +1,16 @@
+!41430!You plunge on the side to dodge the Razor's charge.
+But as soon as you get up you're violently projected on a nearby hut's wall. The Razor quickly reacted it seems.
+You need to find a way to get yourself out of this situation.
+
+#0# Grab burning wood
+#1# Stab the Alien with the Hook
+
+||
+
+[0<41440]
+[1<41450]
+
+[v1<0]
+?#i1=1{
+[v1<2]
+}

@@ -1,0 +1,13 @@
+!50030!Using your grappling hook, you quickly climb the tall tree, which
+gives you a large view of the surrounding area.
+
+You seem to be in a forested basin, surrounded by a small
+chain of mountains on almost every side. The blocks of stone
+that you saw in the distance now clearly appear to you
+as small pillars, cleanly organized in two rows of six.
+
+#0# Continue
+
+||
+
+[0<50031]

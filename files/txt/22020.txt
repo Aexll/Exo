@@ -1,0 +1,8 @@
+!22020!You proudly hold out your trophy in front of them.
+The creature's eyes open with an horrified expression, as they start to scream.
+
+#0# Continue
+
+|| 
+
+[0<22030]

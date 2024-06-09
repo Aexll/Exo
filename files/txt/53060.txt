@@ -1,0 +1,13 @@
+!53060!As you scan your surroundings for a way up the stone structure, you find
+a broken flight of stairs that could be crossed with a bit of effort.
+You carefully place your steps and pull yourself to the top of the
+stairs by the strength of your arms. Taking a moment to  catch your breath,
+you notice that the area around you is very much in disrepair, seemingly
+left abandoned for centuries. Cautious but filled with curiosity, you make
+your way upward.
+
+#0# Continue
+
+||
+
+[0<52060]

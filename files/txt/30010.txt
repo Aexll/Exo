@@ -1,0 +1,19 @@
+!30010!The most intense source seems to be the most interesting to you if you want
+to make sure that your signal works. The jungle seems very wide and deep and to access this source
+you will need to go through the vast desert that lays in front of you.
+Perhaps you could consider another path? 
+
+#0# Go through the desert.
+#1# You decide to follow another signal.
+#2# Get some height to see what is ahead.
+
+||
+[p<11]
+
+[0<30020]
+[1<30030]
+[2<30040]
+
+[v2<0]
+?#i1>0{
+[v2<2]}

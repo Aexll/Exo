@@ -1,0 +1,12 @@
+!53090!As you crouch down to cross the bridge, you interrupt your movement.
+Did you just hear a voice ? Apprehensive, you quickly look back where
+you came from and spot a few shadowy figures lurking at the entrance. You
+don't know what they are,but you sure as hell aren't going to wait and find out;
+you quickly climb to the other side as you make a run for it, running
+across the bridge as fast as you can.
+
+#0# Continue
+
+||
+
+[0<55010]

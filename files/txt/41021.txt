@@ -1,0 +1,9 @@
+!41021!"I have five frags left Sergeant."
+Agria checks hers as well, and respond with a grim look:
+"Three for me. Welp, that's not much, but we gotta do with what we have. Listen closely, I ain't gonna repeat it..."
+
+#0# Continue
+
+||
+
+[0<41030]

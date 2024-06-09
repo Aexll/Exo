@@ -1,0 +1,9 @@
+!30160!After a quite short walk with them, they leave you and go inside what 
+seems to be a cave and their living place.
+You realize that the radar detect something inside.
+
+#0# You trust the radar, and go in.
+
+||
+
+[0<30190]

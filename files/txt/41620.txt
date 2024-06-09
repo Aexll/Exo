@@ -1,0 +1,10 @@
+!41620!Taking advantage of the Razor's disability, you quickly step on you right and land a second stab on the beast arm.
+With a rageous grunt, it tries to hit you, but is immediatly stuck by the pain coming from you first blow.
+As you reaches its back, you land a third hit between the beast's arm and neck, making it drop its axe.
+Drunk with confidence, you try to hit it a thrid time...only to be struck by a deadly blow.
+
+#0# Continue
+
+||
+
+[0<41621]

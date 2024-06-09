@@ -1,0 +1,15 @@
+!55030!Staying careful not to touch your shoulder, you wrap yourself in the thick, black pelt.
+You immediately feel warmth return to your body as you lean on the temple wall, certain that
+nothing could find you in the dark.
+While you sit on the floor to catch your breath and warm up, you are surprised by just how tired
+you are. All of your limbs are aching in some way or another, and your legs feel awfully sore.
+
+While you avoid looking at your left arm, you barely notice that you are dozing off and slowly
+lose consciousness.
+
+#0# Continue
+
+||
+
+[p<18]
+[0<55040]

@@ -1,0 +1,14 @@
+!52030!The creature on the wall menacingly crawls toward the army.
+It stands tall, almost three time bigger than any  of the humanoid
+figures and his head is crowned with three sets of two horns. The
+exact number of limbs is a little unclear, but judging by the amount
+of dead warriors on the ground, it seems to have no trouble being
+able to fight a lot of people at once, which worries you considerably.
+Praying that such a creature only exists in folktales, you make
+your way further inside the temple.
+
+#0# continue
+
+||
+
+[0<52031]

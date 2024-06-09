@@ -1,0 +1,14 @@
+!41085!You run to help Agria, hoping that Cut will be able to defend himself. 
+The Sergeant is struggling with the Alien fast movements.A swift swing of its axe send Agria's firearm away.
+You tackle the the beast with all your strength, but it barely staggers it.
+Agria does not wait to join the melee. She grabs a stone and violently smash it on the alien's flank.
+Still the Big One does not even back away.
+The alien suddenly grab you with one hand, and bashes Agria away with the other.
+Elevated above the ground, you can clearly see the rageous expression of the Razor.
+Not for long, as it violently smashes you on the ground.
+
+#0# Continue
+
+||
+
+[0<41086]

@@ -1,0 +1,12 @@
+!30180!You leave the jungle and continue to progress towards your goal.
+You find yourself walking once again under the blazing sun,
+following the signal, until a weird reflection catches your attention.
+Is that a crashed ship that you see on the horizon?
+
+#0# Go and check it out, it might contain important information.
+#1# You'd better avoid it, it might be a trap.
+
+||
+[p<14]
+[0<30200]
+[1<30210]

@@ -1,0 +1,10 @@
+!30280!You grope to find your way, and arrive in a space less closed than the path, you hear a breath
+that seems to belong to a big thing. Suddenly, no more glow you find
+yourself in a soft and slimy place, you are inside a monster that has started its digestion.
+After an hour or two inside, you go out from the back entrance.
+
+#0# Let's continue.
+
+||
+
+[0<30370]

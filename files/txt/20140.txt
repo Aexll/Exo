@@ -1,0 +1,10 @@
+!20140!Now that you can look at the trinket from up close, it looks like a small but decorated stone amulet,
+covered in symbols and little figures.
+
+You put in in your pocket and keep marching forward.
+
+#0# Continue
+
+||
+
+[0<20141]

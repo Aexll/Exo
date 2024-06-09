@@ -1,0 +1,11 @@
+!41083!
+You take a moment to realize what's happening around you. Agria just put the last Razor down, or...almost.
+The beast is still alive, crawling to its spear. A clean shot in the back of the head put it to sleep.
+As the silence falls again, only broken by the fire burning, Agria speaks up:
+"OK, who's dead ?"
+
+#0# Continue
+
+||
+
+[0<41084]

@@ -1,0 +1,12 @@
+!23030!It's now been an eternity and the guards haven't returned. You get out of your hideout and grasp $bthe pot/$b.
+The radar itself seems as excited as you are, this is it\! 
+
+Using the same path that you used with the Rahk'at you get out of the temple.
+However, where you were expecting opposition there is not a single sign of the rahk'at presence.
+Whatever happened earlier really caught their attention.
+
+#0# Continue
+
+||
+
+[0<23031]

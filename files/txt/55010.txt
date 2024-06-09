@@ -1,0 +1,14 @@
+!55010!Making your way through the damp and humid tunnels, you eventually
+come to face a wide hallway. The engravings of warriors and people
+kneeling toward the end of the corridors make it clear that this
+is a place of importance for the natives.
+
+A beeping sound and a notice from your head display confirm it.
+The energy source is somewhere in front of you\!
+
+#0# Continue
+
+||
+
+[p<18]
+[0<55011]

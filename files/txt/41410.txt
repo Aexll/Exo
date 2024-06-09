@@ -1,0 +1,18 @@
+!41410!You notice the alien's leg's shape. It's not shaped like a human leg, more like...a bird.
+Out of option, you throw a mean kick to the beast's articulation. The Razor let out a scream, destabilized.
+You take advantage of this to evade, you ennemy's crushing weight.
+The beast however quickly recovers from your blow, and is already charging at you.
+
+
+#0# Plunge on the side
+#1# Shoot the Alien
+
+||
+
+[0<41430]
+[1<41460]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

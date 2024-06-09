@@ -1,0 +1,7 @@
+!23071!Added $yPot/$y to your inventory.
+
+#0# Continue
+
+||
+[i9<1]
+[0<24000]

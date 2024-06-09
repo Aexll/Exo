@@ -1,0 +1,12 @@
+!51030!Now careful to not step into other potential traps, you take a second look at the room
+and the stone cube up on the altar. Perhaps it would be better to try and solve the cube
+on your own, rather than to inspect the walls and risk triggering another trap\?
+But then again, you might not have a second chance to solve it if you fail...
+
+#0# Spend time trying to solve the puzzle cube
+#1# Walk around the room and look for hints
+
+||
+
+[0<51040]
+[1<51050]

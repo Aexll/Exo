@@ -1,0 +1,13 @@
+!40075!Seeing Cut, you run to the tree, hoping his plan is going to work, whatever it is.
+As the creature keeps climbing, Agria and Rook starts shooting at the tree.
+The bullets miss the creature, but forces it to jump of the tree.
+As soon as he lands however, you and Cut are ready to recieve it.
+But suddenly the creature hit you with all its strength. Pitch black. Shot fired. Voices.
+You suddenly wake up to see Cut's smiling face.
+"Good job civ', we got him\!"
+
+#0# Continue
+
+||
+
+[0<40090]

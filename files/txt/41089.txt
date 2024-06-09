@@ -1,0 +1,11 @@
+!41089!Agria takes a moment to process what Rook just told her. Her sight switches between Rook and you.
+She tries to take a look at what remains of Cut, but holds back.
+After a second, she regain her sullen face.
+"We get out of here. We have what we wanted."
+You leave the burning settlement, leaving blood and fire as the only trace of your presence.
+
+#0# Continue
+
+||
+
+[0<41092]

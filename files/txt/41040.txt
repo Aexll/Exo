@@ -1,0 +1,11 @@
+!41040!The grappling hook's head stabs itself in the Razor's neck.
+The Alien screams in pain and, thrown off balance, fall off the wall.
+In extremis, you sidestep to avoid the beast's corpse. As it agonizes, you decide to step in the village.
+You suddenly gunshots in quick succession. Your friends are aleady inside.
+As you run across the settlement, you stumble across several dead Razors.
+
+#0# Continue
+
+||
+
+[0<41041]

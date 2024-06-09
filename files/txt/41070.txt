@@ -1,0 +1,19 @@
+!41070!Three Razors are standing at the entrance. Judging by their attitude they weren't present during the assault.
+One of them clearly stand out. It's taller than the usual aliens. Its body is covered in scars and white warpaints.
+Instead of the usual vine-made belts, it is wearing some kind of pauldron, made of...metal?
+Salvaged for sure, considering its shape.
+After a few seconds, the Razor lifts its weapon, a metal axe-like blade, and shriek a war cry.
+The other Razors draw their weapons, and start approaching you.
+
+#0# Retreat to cover
+#1# Shoot at the Aliens
+
+||
+
+[0<41100]
+[1<41071]
+
+[v1<0]
+?#i0=1{
+[v1<2]
+}

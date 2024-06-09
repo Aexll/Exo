@@ -1,0 +1,10 @@
+!40040!You carefully approach the body.
+Well, not carefully enough it seems, as you're suddenly thrown upside down and deafened by a siren.
+A trap. As you hang one meter from the ground, you hear footsteps coming in your direction.
+Three individuals comes out of a nearby bushes. They're human\!
+
+#0# Continue
+
+||
+
+[0<40050]

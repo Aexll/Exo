@@ -1,0 +1,12 @@
+!41011!As he speaks, he takes a small device out of his gear.
+He presses a few buttons, visibly focused on the tiny screen. His face suddenly enlights.
+"Ma'am. There's a signal\! A working one\!"
+Agria lift an eyebrow.
+"Ya sure of that Blue? Those razors don't seem to be the sharpest tool in the shed..."
+"Definitely. Seems like a working radio device...well, working well enough for us."
+
+#0# Continue
+
+||
+
+[0<41012]

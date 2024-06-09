@@ -1,0 +1,15 @@
+!52110!While you feel the reassuring weight of your rifle in your hand, you realise that
+even with a powerful weapon at your side victory is not assured.
+Seeing that you are not retreating, the Beast snarls at you and quickly closes
+the gap between you. Holding your breath, you do your best to appear
+threatening, taunting the beast to react while you fiddle with your rifle,
+setting the power to it's highest setting.
+
+Without warning, the beast jumps, swiping its claws at you. Lucklily, you
+expected it, ducking below the arm as you try to take a shot.
+
+#0# Continue
+
+||
+
+[0<52111]
